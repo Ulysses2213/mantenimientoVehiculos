@@ -1,0 +1,46 @@
+\babel@toc {spanish}{}
+\contentsline {chapter}{\numberline {1}Introducción}{6}{}%
+\contentsline {section}{\numberline {1.1}Problemática}{6}{}%
+\contentsline {section}{\numberline {1.2}Solución}{7}{}%
+\contentsline {section}{\numberline {1.3}Objetivo}{8}{}%
+\contentsline {section}{\numberline {1.4}Alcance}{8}{}%
+\contentsline {chapter}{\numberline {2}Análisis de Datos}{9}{}%
+\contentsline {section}{\numberline {2.1}Requerimientos Funcionales}{9}{}%
+\contentsline {section}{\numberline {2.2}Requerimientos No Funcionales}{10}{}%
+\contentsline {chapter}{\numberline {3}Análisis}{11}{}%
+\contentsline {section}{\numberline {3.1}Entregables}{12}{}%
+\contentsline {section}{\numberline {3.2}HU1 Iniciar Sesión}{12}{}%
+\contentsline {section}{\numberline {3.3}HU2 Visualizar Menú}{13}{}%
+\contentsline {section}{\numberline {3.4}HU3 Visualizar Agenda}{13}{}%
+\contentsline {section}{\numberline {3.5}HU4 Registrar Entrada de Vehículo}{14}{}%
+\contentsline {section}{\numberline {3.6}HU5 Modificar Registro de Vehículo}{14}{}%
+\contentsline {section}{\numberline {3.7}HU6 Eliminar Registro de Vehículo}{15}{}%
+\contentsline {section}{\numberline {3.8}HU7 Buscar Registro de Vehículo}{15}{}%
+\contentsline {section}{\numberline {3.9}HU8 Visualizar Refacciones Disponibles}{16}{}%
+\contentsline {section}{\numberline {3.10}HU2 Solicitar Refacciones}{16}{}%
+\contentsline {chapter}{\numberline {4}Diseño}{17}{}%
+\contentsline {section}{\numberline {4.1}Arquitectura del Software}{17}{}%
+\contentsline {section}{\numberline {4.2}Vista de Procesos}{19}{}%
+\contentsline {subsection}{\numberline {4.2.1}Iniciar Sesión}{19}{}%
+\contentsline {subsection}{\numberline {4.2.2}Visualizar Menú}{21}{}%
+\contentsline {subsection}{\numberline {4.2.3}Visualizar Agenda}{22}{}%
+\contentsline {subsection}{\numberline {4.2.4}Registrar Entrada de Vehículo}{23}{}%
+\contentsline {subsection}{\numberline {4.2.5}Modificar Entrada de Vehículo}{24}{}%
+\contentsline {subsection}{\numberline {4.2.6}Eliminar Registro de Vehículo}{26}{}%
+\contentsline {subsection}{\numberline {4.2.7}Buscar Registro de Vehículo}{27}{}%
+\contentsline {subsection}{\numberline {4.2.8}Visualizar Refacciones Disponibles}{28}{}%
+\contentsline {subsection}{\numberline {4.2.9}Solicitar Refacción}{29}{}%
+\contentsline {section}{\numberline {4.3}Vista Lógica}{30}{}%
+\contentsline {section}{\numberline {4.4}Vista de Desarrollo}{31}{}%
+\contentsline {section}{\numberline {4.5}Vista Física}{33}{}%
+\contentsline {section}{\numberline {4.6}Vista de Escenarios}{34}{}%
+\contentsline {subsection}{\numberline {4.6.1}CU1 Iniciar Sesión}{35}{}%
+\contentsline {subsection}{\numberline {4.6.2}CU2 Visualizar Menú}{36}{}%
+\contentsline {subsection}{\numberline {4.6.3}CU3 Visualizar Agenda}{37}{}%
+\contentsline {subsection}{\numberline {4.6.4}CU4 Registrar Entrada de Vehículo}{39}{}%
+\contentsline {subsection}{\numberline {4.6.5}CU5 Modificar Registro de Vehículo}{40}{}%
+\contentsline {subsection}{\numberline {4.6.6}CU6 Eliminar Registro de Vehículo}{41}{}%
+\contentsline {subsection}{\numberline {4.6.7}CU7 Buscar Registro de Vehículo }{42}{}%
+\contentsline {subsection}{\numberline {4.6.8}CU8 Visualizar Refacciones Disponibles}{43}{}%
+\contentsline {subsection}{\numberline {4.6.9}CU9 Solicitar Refacción}{44}{}%
+\contentsline {chapter}{\numberline {A}Figuras del Software MVP}{47}{}%
