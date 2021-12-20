@@ -1,0 +1,7 @@
+\section{Plan y Reporte de Pruebas de Integración}
+En las pruebas de integración se examinan las interfaces entre grupos de componentes o subsistemas para asegurar que son llamados cuando es necesario y que los datos o mensajes que se transmiten son los requeridos. \\
+
+Se aplicó la integración incremental, en la cual se combina el siguiente componente que se debe probar con el conjunto de componentes que ya están probados y se va incrementando progresivamente el número de componentes a probar.
+\subsection{Estrategia de integración}
+\textbf{De arriba a abajo (top-down): } El primer componente que se desarrolla y prueba es el primero de la jerarquía (A). Los componentes de nivel más bajo se sustituyen por componentes auxiliares para simular a los componentes invocados. En este caso no son necesarios componentes conductores. Una de las ventajas de aplicar esta estrategia es que las interfaces entre los distintos componentes se prueban en una fase temprana y con frecuencia. \\
+Siguiendo la jerarquía de prioridad dada en el Product Backlog se realizarán estas pruebas, desarrollando primero el o los módulos con prioridad alta para luego pasar con los media y baja y conforme se desarrollen, comprobar la intercomunicación del sistema por la integración de los módulos.

@@ -1,41 +1,83 @@
 \babel@toc {spanish}{}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Diagrama de Flujo General}}{18}{figure.2.1}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Modelo de Arquitectura 4+1: Kruchten}}{18}{}%
-\contentsline {figure}{\numberline {4.2}{\ignorespaces Diagrama de Secuencia - Iniciar Sesión}}{20}{}%
-\contentsline {figure}{\numberline {4.3}{\ignorespaces Diagrama de Secuencia - Visualizar Menú}}{21}{}%
-\contentsline {figure}{\numberline {4.4}{\ignorespaces Diagrama de Secuencia - Visualizar Agenda}}{22}{}%
-\contentsline {figure}{\numberline {4.5}{\ignorespaces Diagrama de Secuencia - Registrar Entrada de Vehículo}}{23}{}%
-\contentsline {figure}{\numberline {4.6}{\ignorespaces Diagrama de Secuencia - Modificar Entrada de Vehículo}}{25}{}%
-\contentsline {figure}{\numberline {4.7}{\ignorespaces Diagrama de Secuencia - Eliminar Entrada de Vehículo}}{26}{}%
-\contentsline {figure}{\numberline {4.8}{\ignorespaces Diagrama de Secuencia - Buscar Entrada de Vehículo}}{27}{}%
-\contentsline {figure}{\numberline {4.9}{\ignorespaces Diagrama de Secuencia - Visualizar Refacciones}}{28}{}%
-\contentsline {figure}{\numberline {4.10}{\ignorespaces Diagrama de Secuencia - Solicitar Refacción}}{29}{}%
-\contentsline {figure}{\numberline {4.11}{\ignorespaces Diagrama de Clases - Vista Lógica}}{30}{}%
-\contentsline {figure}{\numberline {4.12}{\ignorespaces Diagrama de Componentes - Vista de Desarrollo}}{32}{}%
-\contentsline {figure}{\numberline {4.13}{\ignorespaces Diagrama de Despliegue - Vista Física}}{33}{}%
-\contentsline {figure}{\numberline {4.14}{\ignorespaces Diagrama de Casos de Uso - Vista de Escenarios}}{34}{}%
-\contentsline {figure}{\numberline {4.15}{\ignorespaces Pantalla Iniciar Sesión - Vista de Escenarios}}{35}{}%
-\contentsline {figure}{\numberline {4.16}{\ignorespaces Alerta Datos Erróneos - Vista de Escenarios}}{35}{}%
-\contentsline {figure}{\numberline {4.17}{\ignorespaces Pantalla Visualizar Menu - Vista de Escenarios}}{36}{}%
-\contentsline {figure}{\numberline {4.18}{\ignorespaces Pantalla Visualizar Agenda - Vista de Escenarios}}{38}{}%
-\contentsline {figure}{\numberline {4.19}{\ignorespaces Alerta Elección de Registro - Vista de Escenarios}}{38}{}%
-\contentsline {figure}{\numberline {4.20}{\ignorespaces Pantalla Registrar Vehículo - Vista de Escenarios}}{39}{}%
-\contentsline {figure}{\numberline {4.21}{\ignorespaces Alerta Confirmación de Registro - Vista de Escenarios}}{39}{}%
-\contentsline {figure}{\numberline {4.22}{\ignorespaces Pantalla Modificar Registro de Vehículo - Vista de Escenarios}}{40}{}%
-\contentsline {figure}{\numberline {4.23}{\ignorespaces Alerta Modificación - Vista de Escenarios}}{40}{}%
-\contentsline {figure}{\numberline {4.24}{\ignorespaces Pantalla Eliminar Registro de Vehículo - Vista de Escenarios}}{41}{}%
-\contentsline {figure}{\numberline {4.25}{\ignorespaces Alerta Confirmación de Eliminación- Vista de Escenarios}}{41}{}%
-\contentsline {figure}{\numberline {4.26}{\ignorespaces Pantalla Visualizar Agenda (Búsqueda) - Vista de Escenarios}}{42}{}%
-\contentsline {figure}{\numberline {4.27}{\ignorespaces Pantalla Visualizar Refacciones - Vista de Escenarios}}{43}{}%
-\contentsline {figure}{\numberline {4.28}{\ignorespaces Pantalla Solicitar Refacción - Vista de Escenarios}}{44}{}%
-\contentsline {figure}{\numberline {4.29}{\ignorespaces Alerta Confirmación de Registro - Vista de Escenarios}}{44}{}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {A.1}{\ignorespaces Captura de Pantalla MVP- Iniciar Sesión}}{48}{}%
-\contentsline {figure}{\numberline {A.2}{\ignorespaces Captura de Pantalla MVP- Menú}}{49}{}%
-\contentsline {figure}{\numberline {A.3}{\ignorespaces Captura de Pantalla MVP- Visualizar Agenda}}{49}{}%
-\contentsline {figure}{\numberline {A.4}{\ignorespaces Captura de Pantalla MVP- Registro de Vehículo}}{50}{}%
-\contentsline {figure}{\numberline {A.5}{\ignorespaces Captura de Pantalla MVP- Modificar Vehículo}}{51}{}%
-\contentsline {figure}{\numberline {A.6}{\ignorespaces Captura de Pantalla MVP- Eliminar Vehículo}}{52}{}%
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Modelo de Arquitectura 4+1: Kruchten}}{37}{figure.5.1}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Diagrama de Secuencia - Iniciar Sesión}}{39}{figure.5.2}%
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Diagrama de Secuencia - Visualizar Menú}}{40}{figure.5.3}%
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Diagrama de Secuencia - Visualizar Agenda}}{41}{figure.5.4}%
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Diagrama de Secuencia - Registrar Entrada de Vehículo}}{42}{figure.5.5}%
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Diagrama de Secuencia - Modificar Entrada de Vehículo}}{44}{figure.5.6}%
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Diagrama de Secuencia - Eliminar Entrada de Vehículo}}{45}{figure.5.7}%
+\contentsline {figure}{\numberline {5.8}{\ignorespaces Diagrama de Secuencia - Buscar Entrada de Vehículo}}{46}{figure.5.8}%
+\contentsline {figure}{\numberline {5.9}{\ignorespaces Diagrama de Secuencia - Visualizar Refacciones}}{47}{figure.5.9}%
+\contentsline {figure}{\numberline {5.10}{\ignorespaces Diagrama de Secuencia - Solicitar Refacción}}{48}{figure.5.10}%
+\contentsline {figure}{\numberline {5.11}{\ignorespaces Diagrama de Secuencia - Visualizar Empleados}}{49}{figure.5.11}%
+\contentsline {figure}{\numberline {5.12}{\ignorespaces Diagrama de Secuencia - Registrar Nuevo Empleado}}{50}{figure.5.12}%
+\contentsline {figure}{\numberline {5.13}{\ignorespaces Diagrama de Secuencia - Modificar Empleado}}{52}{figure.5.13}%
+\contentsline {figure}{\numberline {5.14}{\ignorespaces Diagrama de Secuencia - Eliminar Empleado}}{53}{figure.5.14}%
+\contentsline {figure}{\numberline {5.15}{\ignorespaces Diagrama de Secuencia - Buscar Empleado}}{54}{figure.5.15}%
+\contentsline {figure}{\numberline {5.16}{\ignorespaces Diagrama de Secuencia - Registrar Refacción}}{55}{figure.5.16}%
+\contentsline {figure}{\numberline {5.17}{\ignorespaces Diagrama de Secuencia - Modificar Refacción}}{57}{figure.5.17}%
+\contentsline {figure}{\numberline {5.18}{\ignorespaces Diagrama de Secuencia - Eliminar Refacción}}{58}{figure.5.18}%
+\contentsline {figure}{\numberline {5.19}{\ignorespaces Diagrama de Secuencia - Buscar Refacción}}{59}{figure.5.19}%
+\contentsline {figure}{\numberline {5.20}{\ignorespaces Diagrama de Secuencia - Visualizar Solicitudes de Refacción}}{60}{figure.5.20}%
+\contentsline {figure}{\numberline {5.21}{\ignorespaces Diagrama de Secuencia - Atender Solicitud de Refacción}}{61}{figure.5.21}%
+\contentsline {figure}{\numberline {5.22}{\ignorespaces Diagrama de Clases - Vista Lógica}}{62}{figure.5.22}%
+\contentsline {figure}{\numberline {5.23}{\ignorespaces Diagrama de Componentes - Vista de Desarrollo}}{65}{figure.5.23}%
+\contentsline {figure}{\numberline {5.24}{\ignorespaces Diagrama de Despliegue - Vista Física}}{66}{figure.5.24}%
+\contentsline {figure}{\numberline {5.25}{\ignorespaces Diagrama de Red - Posible Escenario}}{66}{figure.5.25}%
+\contentsline {figure}{\numberline {5.26}{\ignorespaces Diagrama de Casos de Uso - Vista de Escenarios}}{68}{figure.5.26}%
+\contentsline {figure}{\numberline {5.27}{\ignorespaces Pantalla Iniciar Sesión - Vista de Escenarios}}{69}{figure.5.27}%
+\contentsline {figure}{\numberline {5.28}{\ignorespaces Alerta Datos Erróneos - Vista de Escenarios}}{69}{figure.5.28}%
+\contentsline {figure}{\numberline {5.29}{\ignorespaces Pantalla Visualizar Menu - Vista de Escenarios}}{70}{figure.5.29}%
+\contentsline {figure}{\numberline {5.30}{\ignorespaces Pantalla Visualizar Menu Administrador - Vista de Escenarios}}{71}{figure.5.30}%
+\contentsline {figure}{\numberline {5.31}{\ignorespaces Pantalla Visualizar Agenda - Vista de Escenarios}}{73}{figure.5.31}%
+\contentsline {figure}{\numberline {5.32}{\ignorespaces Alerta Elección de Registro - Vista de Escenarios}}{73}{figure.5.32}%
+\contentsline {figure}{\numberline {5.33}{\ignorespaces Pantalla Registrar Vehículo - Vista de Escenarios}}{74}{figure.5.33}%
+\contentsline {figure}{\numberline {5.34}{\ignorespaces Alerta Confirmación de Registro - Vista de Escenarios}}{74}{figure.5.34}%
+\contentsline {figure}{\numberline {5.35}{\ignorespaces Pantalla Modificar Registro de Vehículo - Vista de Escenarios}}{75}{figure.5.35}%
+\contentsline {figure}{\numberline {5.36}{\ignorespaces Alerta Modificación - Vista de Escenarios}}{75}{figure.5.36}%
+\contentsline {figure}{\numberline {5.37}{\ignorespaces Pantalla Eliminar Registro de Vehículo - Vista de Escenarios}}{76}{figure.5.37}%
+\contentsline {figure}{\numberline {5.38}{\ignorespaces Alerta Confirmación de Eliminación- Vista de Escenarios}}{76}{figure.5.38}%
+\contentsline {figure}{\numberline {5.39}{\ignorespaces Pantalla Visualizar Agenda (Búsqueda) - Vista de Escenarios}}{77}{figure.5.39}%
+\contentsline {figure}{\numberline {5.40}{\ignorespaces Pantalla Visualizar Refacciones - Vista de Escenarios}}{78}{figure.5.40}%
+\contentsline {figure}{\numberline {5.41}{\ignorespaces Pantalla Solicitar Refacción - Vista de Escenarios}}{79}{figure.5.41}%
+\contentsline {figure}{\numberline {5.42}{\ignorespaces Alerta Confirmación de Registro - Vista de Escenarios}}{79}{figure.5.42}%
+\contentsline {figure}{\numberline {5.43}{\ignorespaces Pantalla Visualizar Empleados - Vista de Escenarios}}{81}{figure.5.43}%
+\contentsline {figure}{\numberline {5.44}{\ignorespaces Alerta - Vista de Escenarios}}{81}{figure.5.44}%
+\contentsline {figure}{\numberline {5.45}{\ignorespaces Pantalla Registrar Empleado - Vista de Escenarios}}{82}{figure.5.45}%
+\contentsline {figure}{\numberline {5.46}{\ignorespaces Alerta Registro Empleados - Vista de Escenarios}}{82}{figure.5.46}%
+\contentsline {figure}{\numberline {5.47}{\ignorespaces Pantalla Modificar Empleado - Vista de Escenarios}}{83}{figure.5.47}%
+\contentsline {figure}{\numberline {5.48}{\ignorespaces Alerta Modificar Empleado - Vista de Escenarios}}{83}{figure.5.48}%
+\contentsline {figure}{\numberline {5.49}{\ignorespaces Pantalla Eliminar Empleado - Vista de Escenarios}}{84}{figure.5.49}%
+\contentsline {figure}{\numberline {5.50}{\ignorespaces Alerta Eliminar Empleado - Vista de Escenarios}}{84}{figure.5.50}%
+\contentsline {figure}{\numberline {5.51}{\ignorespaces Pantalla Visualizar Empleado (Búsqueda) - Vista de Escenarios}}{85}{figure.5.51}%
+\contentsline {figure}{\numberline {5.52}{\ignorespaces Pantalla Visualizar Refacciones Administrador - Vista de Escenarios}}{87}{figure.5.52}%
+\contentsline {figure}{\numberline {5.53}{\ignorespaces Alerta Refacciones- Vista de Escenarios}}{87}{figure.5.53}%
+\contentsline {figure}{\numberline {5.54}{\ignorespaces Pantalla Registrar Refacción - Vista de Escenarios}}{88}{figure.5.54}%
+\contentsline {figure}{\numberline {5.55}{\ignorespaces Alerta Registro Refacciones- Vista de Escenarios}}{88}{figure.5.55}%
+\contentsline {figure}{\numberline {5.56}{\ignorespaces Pantalla Modificar Refacciones - Vista de Escenarios}}{89}{figure.5.56}%
+\contentsline {figure}{\numberline {5.57}{\ignorespaces Alerta Modificar Refacciones- Vista de Escenarios}}{89}{figure.5.57}%
+\contentsline {figure}{\numberline {5.58}{\ignorespaces Pantalla Eliminar Refacciones - Vista de Escenarios}}{90}{figure.5.58}%
+\contentsline {figure}{\numberline {5.59}{\ignorespaces Alerta Eliminar Refacciones- Vista de Escenarios}}{90}{figure.5.59}%
+\contentsline {figure}{\numberline {5.60}{\ignorespaces Pantalla Visualizar Refacciones Admin (Búsqueda) - Vista de Escenarios}}{91}{figure.5.60}%
+\contentsline {figure}{\numberline {5.61}{\ignorespaces Pantalla Visualizar Solicitudes - Vista de Escenarios}}{92}{figure.5.61}%
+\contentsline {figure}{\numberline {5.62}{\ignorespaces Alerta Solicitudes- Vista de Escenarios}}{92}{figure.5.62}%
+\contentsline {figure}{\numberline {5.63}{\ignorespaces Pantalla Atender Solicitud - Vista de Escenarios}}{93}{figure.5.63}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {A.1}{\ignorespaces Prioridades del Product Backlog}}{102}{figure.Alph1.1}%
+\contentsline {figure}{\numberline {A.2}{\ignorespaces Primer Sprint - Product Backlog}}{102}{figure.Alph1.2}%
+\contentsline {figure}{\numberline {A.3}{\ignorespaces Segundo Sprint - Product Backlog}}{103}{figure.Alph1.3}%
+\contentsline {figure}{\numberline {A.4}{\ignorespaces Primer Sprint - Sprint Backlog}}{103}{figure.Alph1.4}%
+\contentsline {figure}{\numberline {A.5}{\ignorespaces Segundo Sprint - Sprint Backlog}}{104}{figure.Alph1.5}%
+\contentsline {figure}{\numberline {A.6}{\ignorespaces Captura de Pantalla MVP- Iniciar Sesión}}{105}{figure.Alph1.6}%
+\contentsline {figure}{\numberline {A.7}{\ignorespaces Captura de Pantalla MVP- Menú}}{106}{figure.Alph1.7}%
+\contentsline {figure}{\numberline {A.8}{\ignorespaces Captura de Pantalla MVP- Visualizar Agenda}}{106}{figure.Alph1.8}%
+\contentsline {figure}{\numberline {A.9}{\ignorespaces Captura de Pantalla MVP- Registro de Vehículo}}{107}{figure.Alph1.9}%
+\contentsline {figure}{\numberline {A.10}{\ignorespaces Captura de Pantalla MVP- Modificar Vehículo}}{108}{figure.Alph1.10}%
+\contentsline {figure}{\numberline {A.11}{\ignorespaces Captura de Pantalla MVP- Eliminar Vehículo}}{109}{figure.Alph1.11}%

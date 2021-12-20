@@ -1,0 +1,15 @@
+\subsubsection{Modificar Empleado}
+En la figura \ref{fig:Diagrama de Secuencia - Modificar Empleado} que se muestra a continuación se muestra el flujo de las diversas actividades que corresponden a la modificación de los datos de un registro de un empleado. En este proceso, el administrador solicita esta modificación a través del sistema y este mismo interactúa con la base de datos para su modificación. En este proceso existen algunas variantes:
+\begin{itemize}
+	\item \textbf{Existe empleado:} Se asegura que el empleado está registrado en la base de datos, si es así, se procede a la modificación del mismo mediante un formulario de actualización.
+	\item \textbf{No existe el empleado:} Si no existe el registro del empleado en la base de datos, el sistema muestra un mensaje de error al usuario.
+	\item \textbf{Datos válidos:} Al modificar los datos de un empleado, el sistema valida si esa información es correcta, es decir, si los campos han sido llenados y el formato es el correspondiente con cada uno de dichos campos.
+	\item \textbf{Datos no válidos:} Los datos que se quieren sobrescribir en la base de datos son incorrectos y el sistema no permite la actualización y muestra un mensaje de error.
+\end{itemize}
+\begin{figure}[!h]
+	\centering
+	\includegraphics[width=1\textwidth]{./diseno/vprocesos/imagenes/modificarEmpleado}
+	\caption{Diagrama de Secuencia - Modificar Empleado}
+	\label{fig:Diagrama de Secuencia - Modificar Empleado}
+\end{figure}
+\clearpage

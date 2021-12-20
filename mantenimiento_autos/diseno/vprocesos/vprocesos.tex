@@ -1,10 +1,11 @@
 \section{Vista de Procesos}
-A continuación se muestran los diagramas de secuencia de las tareas que el sistema permitirá realizar: Iniciar sesión, visualizar menú, visualizar agenda, gestión de la agenda y la gestión de las refacciones. 
+A continuación se muestran los diagramas de secuencia diseñados para la interacción entre el usuario ('administrador' y 'empleado') y el sistema de información. 
 
-\vspace{2.5cm}
 %Contenido de la vista de procesos
+\subsection{Vista de Procesos Empleado} \label{subsec: Vista Procesos Empleado}
 \input{./diseno/vprocesos/iniciarSesion}
 \input{./diseno/vprocesos/visualizarMenu}
+%Documentación de los vehículos
 \input{./diseno/vprocesos/visualizarAgenda}
 \input{./diseno/vprocesos/registrarEntrada}
 \input{./diseno/vprocesos/modificarEntrada}
@@ -12,3 +13,20 @@ A continuación se muestran los diagramas de secuencia de las tareas que el sist
 \input{./diseno/vprocesos/buscarEntrada}
 \input{./diseno/vprocesos/visualizarRefacciones}
 \input{./diseno/vprocesos/solicitarRefaccion}
+\subsection{Vista de Procesos Administrador}
+El administrador también tiene poder sobre la gestión de los vehículos que entran al taller. Dicho poder lo comparte con el empleado, para visualizar mas a detalle estos procesos vea la sección de 'Vista de Procesos Empleado' \ref{subsec: Vista Procesos Empleado}.
+%Documetnación de los empleados
+\input{./diseno/vprocesos/visualizarEmpleados}
+\input{./diseno/vprocesos/registrarEmpleados}
+\input{./diseno/vprocesos/modificarEmpleados}
+\input{./diseno/vprocesos/eliminarEmpleado}
+\input{./diseno/vprocesos/buscarEmpleado}
+%Documentación de las refacciones
+\input{./diseno/vprocesos/registrarRefacciones}
+\input{./diseno/vprocesos/modificarRefacciones}
+\input{./diseno/vprocesos/eliminarRefaccion}
+\input{./diseno/vprocesos/buscarRefaccion}
+%Documetnación de solicitudes
+\input{./diseno/vprocesos/visualizarSolicitudes}
+\input{./diseno/vprocesos/atenderSolicitud}
+

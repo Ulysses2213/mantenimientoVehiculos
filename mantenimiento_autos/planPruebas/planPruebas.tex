@@ -1,0 +1,17 @@
+\section{Plan de Pruebas}
+En esta sección del documento se describen las diferentes pruebas que se planean realizar a todo el sistema.
+\begin{itemize}
+	\item \textbf{Pruebas de Caja Negra: } Se basan en la representación de las interacciones entre actores. Basándose en estas interacciones se pueden diseñar casos de prueba. Estas pruebas llevan precondiciones que deben cumplirse para que los actores funcionen de forma adecuada y postcondiciones que serán los resultados analizados después de la ejecución. \\
+	Para este tipo de pruebas se planea hacer una pila de casos de prueba donde el 80\% de ellas sean para ver que el programa si acepta casos de prueba correctos y el 20\% serán casos de prueba erróneos, es decir, datos que intencionalmente están mal para ver como es que el sistema lidia con los errores de captura de datos, selección de registros y actualización de datos. Estas pruebas se realizarán solo con la GUI (Interfaz Gráfica de Usuario) de cada uno de los módulos (iniciar sesión, menús, visualización de tablas, registro de vehículos, etc) sin revisión de código. Es por eso que se denominan, de caja negra. 
+	\item \textbf{Pruebas de Caja Blanca: } Es una técnica de prueba de software en la que se prueba la estructura interna, el diseño y la codificación del software para verificar el flujo de entrada y salida y para mejorar el diseño, la usabilidad y la seguridad. \\
+	Con la prueba de cada módulo se analizará cada uno desde el código fuente verificando el flujo de los datos dentro del sistema y que el patrón de diseño Modelo Vista Controlador se ha respetado.
+	\item \textbf{Puntos a considerar: }
+	\begin{itemize}
+		\item Rutas mal estructuradas.
+		\item Rendimiento esperado.
+		\item Funcionalidad de los bucles.
+		\item Funcionalidad multiplataforma.
+		\item Verificación de la disponibilidad y funcionalidad de la Base de Datos en la Nube.
+		\item Elaboración de Casos de Prueba específicos para cada módulo.
+	\end{itemize}
+\end{itemize}

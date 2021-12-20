@@ -5,8 +5,10 @@
 \documentclass[letterpaper,11pt]{report} 
 \usepackage[utf8]{inputenc} %Caracteres: UTF8
 \usepackage[spanish]{babel} %Lenguaje: Espanol
+\usepackage{hyperref}
 \usepackage{graphicx}%Manejo de imagenes
 \usepackage{appendix}%Manejo de apendices (anexos)
+\usepackage{pdflscape}%anejo de páginas horizonrales
 
 \begin{document}
 	\renewcommand{\tablename}{Tabla}
@@ -22,9 +24,24 @@
 	
 	%Contenido
 	\input{./introduccion/introduccion}
+	\input{./categoriasProcesos/categorias}
+	\input{./niveles/niveles}
+	\clearpage
+	\input{./diagramaFlujo/diagramaFlujo}
+	\clearpage
+	\input{./desarrollo/desarrollo}
 	\input{./analisisDatos/analisisDatos}
 	\input{./analisis/analisis}
 	\input{./diseno/diseno}
+	\input{./roles/roles}
+	\input{./reporte/reporte}
+	\input{./lecciones/lecciones}
+	\input{./medicionesMejora/medicionesMejora}
+	\input{./planPruebas/planPruebas}
+	\input{./planPruebasIntegracion/planPruebasIntegracion}
+	\input{./reporteVerificacion/reporteVerificacion}
+	\input{./reporteValidacion/reporteValidacion}
+	\input{./conclusiones/conclusiones}
 	\input{./bibliografía/bibliografía}
 	
 	\appendix

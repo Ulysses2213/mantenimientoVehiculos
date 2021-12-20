@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.4.5)  17 SEP 2021 09:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.4.5)  19 DEC 2021 20:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -52,13 +52,149 @@ Package babel Info: Making . an active character on input line 662.
 Package babel Info: Making < an active character on input line 707.
 Package babel Info: Making > an active character on input line 707.
 ))
-(c:/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+(c:/texlive/2021/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2021-02-27 v7.00k Hypertext links for LaTeX
 
+(c:/texlive/2021/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(c:/texlive/2021/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+(c:/texlive/2021/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(c:/texlive/2021/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
 (c:/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks18
 )
+(c:/texlive/2021/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(c:/texlive/2021/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(c:/texlive/2021/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(c:/texlive/2021/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(c:/texlive/2021/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(c:/texlive/2021/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(c:/texlive/2021/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+)
+\@linkdim=\dimen140
+\Hy@linkcounter=\count191
+\Hy@pagecounter=\count192
+
+(c:/texlive/2021/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2021-02-27 v7.00k Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(c:/texlive/2021/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def
+File: hyperref-langpatches.def 2021-02-27 v7.00k Hyperref: patches for babel la
+nguages
+)
+(c:/texlive/2021/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(c:/texlive/2021/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count193
+
+(c:/texlive/2021/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2021-02-27 v7.00k Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4192.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing OFF on input line 4212.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4445.
+\c@Hy@tempcnt=\count194
+
+(c:/texlive/2021/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4804.
+\XeTeXLinkMargin=\dimen141
+
+(c:/texlive/2021/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(c:/texlive/2021/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count195
+\Field@Width=\dimen142
+\Fld@charsize=\dimen143
+Package hyperref Info: Hyper figures OFF on input line 6075.
+Package hyperref Info: Link nesting OFF on input line 6080.
+Package hyperref Info: Hyper index ON on input line 6083.
+Package hyperref Info: backreferencing OFF on input line 6090.
+Package hyperref Info: Link coloring OFF on input line 6095.
+Package hyperref Info: Link coloring with OCG OFF on input line 6100.
+Package hyperref Info: PDF/A mode OFF on input line 6105.
+LaTeX Info: Redefining \ref on input line 6145.
+LaTeX Info: Redefining \pageref on input line 6149.
+
+(c:/texlive/2021/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packa
+ge
+with kernel methods
+)
+\Hy@abspage=\count196
+\c@Item=\count197
+\c@Hfootnote=\count198
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(c:/texlive/2021/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2021-02-27 v7.00k Hyperref driver for pdfTeX
+
+(c:/texlive/2021/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
+e
+with kernel methods
+)
+\Fld@listcount=\count199
+\c@bookmark@seq@number=\count266
+
+(c:/texlive/2021/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(c:/texlive/2021/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip49
+)
+(c:/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
 (c:/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
 
@@ -73,55 +209,92 @@ Package graphics Info: Driver file: pdftex.def on input line 105.
 (c:/texlive/2021/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 ))
-\Gin@req@height=\dimen140
-\Gin@req@width=\dimen141
+\Gin@req@height=\dimen144
+\Gin@req@width=\dimen145
 )
 (c:/texlive/2021/texmf-dist/tex/latex/appendix/appendix.sty
 Package: appendix 2020/02/08 v1.2c extra appendix facilities
-\c@@pps=\count191
-\c@@ppsavesec=\count192
-\c@@ppsaveapp=\count193
+\c@@pps=\count267
+\c@@ppsavesec=\count268
+\c@@ppsaveapp=\count269
+)
+(c:/texlive/2021/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
+
+(c:/texlive/2021/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 )
 (c:/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count194
+\l__color_backend_stack_int=\count270
 \l__pdf_internal_box=\box47
 )
 (./mantenimiento_autos.aux
-LaTeX Info: Redefining \. on input line 8.
-LaTeX Info: Redefining \% on input line 8.
+LaTeX Info: Redefining \. on input line 25.
+LaTeX Info: Redefining \% on input line 25.
+
+
+LaTeX Warning: Label `fig:Alerta Registro Refacciones - Vista de Escenarios' mu
+ltiply defined.
+
 )
 \openout1 = `mantenimiento_autos.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Info: Redefining \. on input line 11.
-LaTeX Info: Redefining \% on input line 11.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Info: Redefining \. on input line 13.
+LaTeX Info: Redefining \% on input line 13.
+Package hyperref Info: Link coloring OFF on input line 13.
+ (c:/texlive/2021/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+
+(c:/texlive/2021/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(c:/texlive/2021/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count271
+)
+LaTeX Info: Redefining \ref on input line 13.
+LaTeX Info: Redefining \pageref on input line 13.
+LaTeX Info: Redefining \nameref on input line 13.
+
+(./mantenimiento_autos.out) (./mantenimiento_autos.out)
+\@outlinefile=\write3
+\openout3 = `mantenimiento_autos.out'.
+
 
 (c:/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count195
-\scratchdimen=\dimen142
+\scratchcounter=\count272
+\scratchdimen=\dimen146
 \scratchbox=\box48
-\nofMPsegments=\count196
-\nofMParguments=\count197
+\nofMPsegments=\count273
+\nofMParguments=\count274
 \everyMPshowfont=\toks19
-\MPscratchCnt=\count198
-\MPscratchDim=\dimen143
-\MPnumerator=\count199
-\makeMPintoPDFobject=\count266
+\MPscratchCnt=\count275
+\MPscratchDim=\dimen147
+\MPnumerator=\count276
+\makeMPintoPDFobject=\count277
 \everyMPtoPDFconversion=\toks20
 ) (c:/texlive/2021/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -133,12 +306,12 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 (./portada.tex
-<imagenes/ipn.png, id=1, 332.74312pt x 490.83376pt>
+<imagenes/ipn.png, id=353, 332.74312pt x 490.83376pt>
 File: imagenes/ipn.png Graphic file (type png)
 <use imagenes/ipn.png>
 Package pdftex.def Info: imagenes/ipn.png  used on input line 6.
 (pdftex.def)             Requested size: 66.54744pt x 98.16501pt.
-<imagenes/upiicsa.png, id=3, 159.59625pt x 168.63pt>
+<imagenes/upiicsa.png, id=355, 159.59625pt x 168.63pt>
 File: imagenes/upiicsa.png Graphic file (type png)
 <use imagenes/upiicsa.png>
 Package pdftex.def Info: imagenes/upiicsa.png  used on input line 7.
@@ -151,8 +324,13 @@ Overfull \hbox (9.88582pt too wide) in paragraph at lines 20--21
 [1
 
 {c:/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./imagenes/ipn.
-png> <./imagenes/upiicsa.png>]) (./resumen.tex [1])
-(./mantenimiento_autos.toc
+png> <./imagenes/upiicsa.png>]) (./resumen.texpdfTeX warning (ext4): destinatio
+n with the same identifier (name{page.1}) has been already used, duplicate igno
+red
+<to be read again> 
+                   \relax 
+l.4 \end{abstract}
+                   [1]) (./mantenimiento_autos.toc
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -161,60 +339,122 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 3.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 3.
- [1
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.35 ... Refacciones Disponibles}{29}{section.4.9}
+                                                  % [1
 
-])
-\tf@toc=\write3
-\openout3 = `mantenimiento_autos.toc'.
+]
+LaTeX Info: Redefining \. on input line 94.
+LaTeX Info: Redefining \% on input line 94.
+ [2])
+\tf@toc=\write4
+\openout4 = `mantenimiento_autos.toc'.
 
-LaTeX Info: Redefining \. on input line 19.
-LaTeX Info: Redefining \% on input line 19.
- [2] (./mantenimiento_autos.lof
+LaTeX Info: Redefining \. on input line 21.
+LaTeX Info: Redefining \% on input line 21.
+ [3]
+(./mantenimiento_autos.lof
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
- [3
+ [4
 
-])
-\tf@lof=\write4
-\openout4 = `mantenimiento_autos.lof'.
+]
+LaTeX Info: Redefining \. on input line 75.
+LaTeX Info: Redefining \% on input line 75.
+ [5])
+\tf@lof=\write5
+\openout5 = `mantenimiento_autos.lof'.
 
-LaTeX Info: Redefining \. on input line 20.
-LaTeX Info: Redefining \% on input line 20.
- [4]
-(./mantenimiento_autos.lot
+LaTeX Info: Redefining \. on input line 22.
+LaTeX Info: Redefining \% on input line 22.
+ [6] (./mantenimiento_autos.lot
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 )
-\tf@lot=\write5
-\openout5 = `mantenimiento_autos.lot'.
+\tf@lot=\write6
+\openout6 = `mantenimiento_autos.lot'.
 
- [5
+ [7
 
-] (./introduccion/introduccion.tex
+]
+(./introduccion/introduccion.tex
 Cap\'{\i }tulo 1.
-(./introduccion/problematica.tex [6
+(./introduccion/problematica.tex [8
 
 
 ]) (./introduccion/solucion.tex
 LaTeX Info: Redefining \. on input line 16.
 LaTeX Info: Redefining \% on input line 16.
- [7])
+ [9])
 (./introduccion/objetivo.tex) (./introduccion/alcance.tex))
-(./analisisDatos/analisisDatos.tex
+(./categoriasProcesos/categorias.tex
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
- [8
+ [10
 
 ]
 Cap\'{\i }tulo 2.
-(./analisisDatos/rfuncionales.tex) (./analisisDatos/rnfuncionales.tex [9
+) (./niveles/niveles.tex [11
 
-]))
+] (./definicionConceptos/definicionConceptos.tex
+LaTeX Info: Redefining \. on input line 3.
+LaTeX Info: Redefining \% on input line 3.
+
+[12]
+LaTeX Info: Redefining \. on input line 15.
+LaTeX Info: Redefining \% on input line 15.
+ [13]) (./requisitosProcesos/requisitosProcesos.tex
+LaTeX Info: Redefining \. on input line 15.
+LaTeX Info: Redefining \% on input line 15.
+ [14]
+LaTeX Info: Redefining \. on input line 35.
+LaTeX Info: Redefining \% on input line 35.
+ [15])
+(./inplantacion/inplantacion.tex) (./evaluacion/evaluacion.tex
+LaTeX Info: Redefining \. on input line 4.
+LaTeX Info: Redefining \% on input line 4.
+ [16]))
+LaTeX Info: Redefining \. on input line 29.
+LaTeX Info: Redefining \% on input line 29.
+ [17]
+(./diagramaFlujo/diagramaFlujo.tex
+<./diagramaFlujo/imagenes/DiagramadeFlujo.png, id=696, 748.7975pt x 1014.79124p
+t>
+File: ./diagramaFlujo/imagenes/DiagramadeFlujo.png Graphic file (type png)
+<use ./diagramaFlujo/imagenes/DiagramadeFlujo.png>
+Package pdftex.def Info: ./diagramaFlujo/imagenes/DiagramadeFlujo.png  used on 
+input line 5.
+(pdftex.def)             Requested size: 288.0011pt x 390.30098pt.
+)
+LaTeX Info: Redefining \. on input line 31.
+LaTeX Info: Redefining \% on input line 31.
+ [18
+
+ <./diagramaFlujo/imagenes/DiagramadeFlujo.png>] (./desarrollo/desarrollo.tex
+LaTeX Info: Redefining \. on input line 12.
+LaTeX Info: Redefining \% on input line 12.
+ [19
+
+]
+LaTeX Info: Redefining \. on input line 28.
+LaTeX Info: Redefining \% on input line 28.
+ [20])
+(./analisisDatos/analisisDatos.tex
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+ [21]
+Cap\'{\i }tulo 3.
+(./analisisDatos/rfuncionales.tex [22
+
+]) (./analisisDatos/rnfuncionales.tex))
 (./analisis/analisis.tex
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
- [10]
-Cap\'{\i }tulo 3.
+ [23]
+Cap\'{\i }tulo 4.
 LaTeX Font Info:    Trying to load font information for OML+cmr on input line 1
 3.
 (c:/texlive/2021/texmf-dist/tex/latex/base/omlcmr.fd
@@ -230,69 +470,154 @@ r/m/n/10.95 ACCION\OML/cmm/m/it/10.95 >\OT1/cmr/bx/n/10.95 para que\OML/cmm/m/i
 t/10.95 <\OT1/cmr/m/n/10.95 BENEFICIO\OML/cmm/m/it/10.95 > 
  []
 
-[11
+[24
 
-] (./historiasUsuario/entregables.tex) (./historiasUsuario/hu1.tex
+] (./historiasUsuario/entregables.tex)
+LaTeX Info: Redefining \. on input line 18.
+LaTeX Info: Redefining \% on input line 18.
+ [25
+
+] (./historiasUsuario/hu1.tex
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
+
+ []
+
+) (./historiasUsuario/hu2.tex
 Underfull \hbox (badness 10000) in paragraph at lines 6--7
 
  []
 
 )
-LaTeX Info: Redefining \. on input line 19.
-LaTeX Info: Redefining \% on input line 19.
- [12
+LaTeX Info: Redefining \. on input line 22.
+LaTeX Info: Redefining \% on input line 22.
+ [26
 
-] (./historiasUsuario/hu2.tex
+] (./historiasUsuario/hu3.tex
 Underfull \hbox (badness 10000) in paragraph at lines 6--7
 
  []
 
-) (./historiasUsuario/hu3.tex
-Underfull \hbox (badness 10000) in paragraph at lines 6--7
-
- []
-
-)
-LaTeX Info: Redefining \. on input line 23.
-LaTeX Info: Redefining \% on input line 23.
- [13
-
-] (./historiasUsuario/hu4.tex
-Underfull \hbox (badness 10000) in paragraph at lines 6--7
-
- []
-
-) (./historiasUsuario/hu5.tex
+) (./historiasUsuario/hu4.tex
 Underfull \hbox (badness 10000) in paragraph at lines 6--7
 
  []
 
 )
-LaTeX Info: Redefining \. on input line 27.
-LaTeX Info: Redefining \% on input line 27.
- [14
+LaTeX Info: Redefining \. on input line 26.
+LaTeX Info: Redefining \% on input line 26.
+ [27
 
-] (./historiasUsuario/hu6.tex
+] (./historiasUsuario/hu5.tex
 Underfull \hbox (badness 10000) in paragraph at lines 6--7
 
  []
 
-) (./historiasUsuario/hu7.tex
+) (./historiasUsuario/hu6.tex
 Underfull \hbox (badness 10000) in paragraph at lines 6--7
 
  []
 
 )
-LaTeX Info: Redefining \. on input line 31.
-LaTeX Info: Redefining \% on input line 31.
- [15
+LaTeX Info: Redefining \. on input line 30.
+LaTeX Info: Redefining \% on input line 30.
+ [28
 
-] (./historiasUsuario/hu8.tex
+] (./historiasUsuario/hu7.tex
 Underfull \hbox (badness 10000) in paragraph at lines 6--7
 
  []
 
-) (./historiasUsuario/hu9.tex
+) (./historiasUsuario/hu8.tex
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
+
+ []
+
+)
+LaTeX Info: Redefining \. on input line 34.
+LaTeX Info: Redefining \% on input line 34.
+ [29
+
+] (./historiasUsuario/hu9.tex
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
+
+ []
+
+) (./historiasUsuario/hu10.tex
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
+
+ []
+
+)
+LaTeX Info: Redefining \. on input line 38.
+LaTeX Info: Redefining \% on input line 38.
+ [30
+
+] (./historiasUsuario/hu11.tex
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
+
+ []
+
+) (./historiasUsuario/hu12.tex
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
+
+ []
+
+)
+LaTeX Info: Redefining \. on input line 42.
+LaTeX Info: Redefining \% on input line 42.
+ [31
+
+] (./historiasUsuario/hu13.tex
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
+
+ []
+
+) (./historiasUsuario/hu14.tex
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
+
+ []
+
+)
+LaTeX Info: Redefining \. on input line 46.
+LaTeX Info: Redefining \% on input line 46.
+ [32
+
+] (./historiasUsuario/hu15.tex
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
+
+ []
+
+) (./historiasUsuario/hu16.tex
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
+
+ []
+
+)
+LaTeX Info: Redefining \. on input line 50.
+LaTeX Info: Redefining \% on input line 50.
+ [33
+
+] (./historiasUsuario/hu17.tex
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
+
+ []
+
+) (./historiasUsuario/hu18.tex
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
+
+ []
+
+)
+LaTeX Info: Redefining \. on input line 54.
+LaTeX Info: Redefining \% on input line 54.
+ [34
+
+] (./historiasUsuario/hu19.tex
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
+
+ []
+
+) (./historiasUsuario/hu20.tex
 Underfull \hbox (badness 10000) in paragraph at lines 6--7
 
  []
@@ -300,15 +625,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--7
 )) (./diseno/diseno.tex
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
- [16
+ [35
 
 ]
-Cap\'{\i }tulo 4.
-(./diseno/arquitectura/arquitectura.tex [17
+Cap\'{\i }tulo 5.
+(./diseno/arquitectura/arquitectura.tex [36
 
 ]
-<./diseno/arquitectura/imagenes/arquitectura.jpg, id=74, 548.80031pt x 405.7659
-3pt>
+<./diseno/arquitectura/imagenes/arquitectura.jpg, id=785, 548.80031pt x 405.765
+93pt>
 File: ./diseno/arquitectura/imagenes/arquitectura.jpg Graphic file (type jpg)
 <use ./diseno/arquitectura/imagenes/arquitectura.jpg>
 Package pdftex.def Info: ./diseno/arquitectura/imagenes/arquitectura.jpg  used 
@@ -317,11 +642,11 @@ on input line 16.
 )
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
- [18 <./diseno/arquitectura/imagenes/arquitectura.jpg>] (./diseno/vprocesos/vpr
+ [37 <./diseno/arquitectura/imagenes/arquitectura.jpg>] (./diseno/vprocesos/vpr
 ocesos.tex
 (./diseno/vprocesos/iniciarSesion.tex
-<./diseno/vprocesos/imagenes/iniciarSesion.jpg, id=78, 751.80875pt x 732.7375pt
->
+<./diseno/vprocesos/imagenes/iniciarSesion.jpg, id=791, 751.80875pt x 732.7375p
+t>
 File: ./diseno/vprocesos/imagenes/iniciarSesion.jpg Graphic file (type jpg)
 <use ./diseno/vprocesos/imagenes/iniciarSesion.jpg>
 Package pdftex.def Info: ./diseno/vprocesos/imagenes/iniciarSesion.jpg  used on
@@ -333,15 +658,15 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 LaTeX Info: Redefining \. on input line 13.
 LaTeX Info: Redefining \% on input line 13.
-[19
+[38
 
 ]
 LaTeX Info: Redefining \. on input line 13.
 LaTeX Info: Redefining \% on input line 13.
- [20 <./diseno/vprocesos/imagenes/iniciarSesion.jpg>])
+ [39 <./diseno/vprocesos/imagenes/iniciarSesion.jpg>])
 (./diseno/vprocesos/visualizarMenu.tex
-<./diseno/vprocesos/imagenes/visualizarMenu.jpg, id=85, 743.77875pt x 643.40375
-pt>
+<./diseno/vprocesos/imagenes/visualizarMenu.jpg, id=802, 743.77875pt x 643.4037
+5pt>
 File: ./diseno/vprocesos/imagenes/visualizarMenu.jpg Graphic file (type jpg)
 <use ./diseno/vprocesos/imagenes/visualizarMenu.jpg>
 Package pdftex.def Info: ./diseno/vprocesos/imagenes/visualizarMenu.jpg  used o
@@ -351,11 +676,11 @@ n input line 9.
 (./diseno/vprocesos/visualizarAgenda.tex
 LaTeX Info: Redefining \. on input line 3.
 LaTeX Info: Redefining \% on input line 3.
- [21
+ [40
 
  <./diseno/vprocesos/imagenes/visualizarMenu.jpg>]
-<./diseno/vprocesos/imagenes/visualizarAgenda.jpg, id=89, 743.77875pt x 604.257
-5pt>
+<./diseno/vprocesos/imagenes/visualizarAgenda.jpg, id=809, 743.77875pt x 604.25
+75pt>
 File: ./diseno/vprocesos/imagenes/visualizarAgenda.jpg Graphic file (type jpg)
 <use ./diseno/vprocesos/imagenes/visualizarAgenda.jpg>
 Package pdftex.def Info: ./diseno/vprocesos/imagenes/visualizarAgenda.jpg  used
@@ -364,9 +689,9 @@ Package pdftex.def Info: ./diseno/vprocesos/imagenes/visualizarAgenda.jpg  used
 ) (./diseno/vprocesos/registrarEntrada.tex
 LaTeX Info: Redefining \. on input line 3.
 LaTeX Info: Redefining \% on input line 3.
- [22 <./diseno/vprocesos/imagenes/visualizarAgenda.jpg>]
-<./diseno/vprocesos/imagenes/registrarEntrada.jpg, id=93, 743.77875pt x 756.827
-5pt>
+ [41 <./diseno/vprocesos/imagenes/visualizarAgenda.jpg>]
+<./diseno/vprocesos/imagenes/registrarEntrada.jpg, id=817, 743.77875pt x 756.82
+75pt>
 File: ./diseno/vprocesos/imagenes/registrarEntrada.jpg Graphic file (type jpg)
 <use ./diseno/vprocesos/imagenes/registrarEntrada.jpg>
 Package pdftex.def Info: ./diseno/vprocesos/imagenes/registrarEntrada.jpg  used
@@ -376,9 +701,9 @@ Package pdftex.def Info: ./diseno/vprocesos/imagenes/registrarEntrada.jpg  used
 LaTeX Info: Redefining \. on input line 3.
 LaTeX Info: Redefining \% on input line 3.
 
-[23 <./diseno/vprocesos/imagenes/registrarEntrada.jpg>]
-<./diseno/vprocesos/imagenes/modificarEntrada.jpg, id=98, 743.77875pt x 981.667
-5pt>
+[42 <./diseno/vprocesos/imagenes/registrarEntrada.jpg>]
+<./diseno/vprocesos/imagenes/modificarEntrada.jpg, id=824, 743.77875pt x 981.66
+75pt>
 File: ./diseno/vprocesos/imagenes/modificarEntrada.jpg Graphic file (type jpg)
 <use ./diseno/vprocesos/imagenes/modificarEntrada.jpg>
 Package pdftex.def Info: ./diseno/vprocesos/imagenes/modificarEntrada.jpg  used
@@ -390,12 +715,12 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 LaTeX Info: Redefining \. on input line 15.
 LaTeX Info: Redefining \% on input line 15.
-[24]
+[43]
 LaTeX Info: Redefining \. on input line 15.
 LaTeX Info: Redefining \% on input line 15.
- [25 <./diseno/vprocesos/imagenes/modificarEntrada.jpg>])
+ [44 <./diseno/vprocesos/imagenes/modificarEntrada.jpg>])
 (./diseno/vprocesos/eliminarEntrada.tex
-<./diseno/vprocesos/imagenes/eliminarEntrada.jpg, id=105, 743.77875pt x 676.527
+<./diseno/vprocesos/imagenes/eliminarEntrada.jpg, id=835, 743.77875pt x 676.527
 5pt>
 File: ./diseno/vprocesos/imagenes/eliminarEntrada.jpg Graphic file (type jpg)
 <use ./diseno/vprocesos/imagenes/eliminarEntrada.jpg>
@@ -404,11 +729,11 @@ on input line 9.
 (pdftex.def)             Requested size: 323.9978pt x 294.71033pt.
 LaTeX Info: Redefining \. on input line 13.
 LaTeX Info: Redefining \% on input line 13.
- [26
+ [45
 
  <./diseno/vprocesos/imagenes/eliminarEntrada.jpg>]) (./diseno/vprocesos/buscar
 Entrada.tex
-<./diseno/vprocesos/imagenes/buscarEntrada.jpg, id=109, 743.77875pt x 548.0475p
+<./diseno/vprocesos/imagenes/buscarEntrada.jpg, id=842, 743.77875pt x 548.0475p
 t>
 File: ./diseno/vprocesos/imagenes/buscarEntrada.jpg Graphic file (type jpg)
 <use ./diseno/vprocesos/imagenes/buscarEntrada.jpg>
@@ -417,11 +742,11 @@ Package pdftex.def Info: ./diseno/vprocesos/imagenes/buscarEntrada.jpg  used on
 (pdftex.def)             Requested size: 360.0pt x 265.26752pt.
 LaTeX Info: Redefining \. on input line 13.
 LaTeX Info: Redefining \% on input line 13.
- [27
+ [46
 
  <./diseno/vprocesos/imagenes/buscarEntrada.jpg>]) (./diseno/vprocesos/visualiz
 arRefacciones.tex
-<./diseno/vprocesos/imagenes/visualizarRefacciones.jpg, id=113, 743.77875pt x 5
+<./diseno/vprocesos/imagenes/visualizarRefacciones.jpg, id=849, 743.77875pt x 5
 48.0475pt>
 File: ./diseno/vprocesos/imagenes/visualizarRefacciones.jpg Graphic file (type 
 jpg)
@@ -433,10 +758,10 @@ Package pdftex.def Info: ./diseno/vprocesos/imagenes/visualizarRefacciones.jpg
 (./diseno/vprocesos/solicitarRefaccion.tex
 LaTeX Info: Redefining \. on input line 3.
 LaTeX Info: Redefining \% on input line 3.
- [28
+ [47
 
  <./diseno/vprocesos/imagenes/visualizarRefacciones.jpg>]
-<./diseno/vprocesos/imagenes/solicitarRefacciones.jpg, id=117, 743.77875pt x 65
+<./diseno/vprocesos/imagenes/solicitarRefacciones.jpg, id=857, 743.77875pt x 65
 2.4375pt>
 File: ./diseno/vprocesos/imagenes/solicitarRefacciones.jpg Graphic file (type j
 pg)
@@ -446,83 +771,259 @@ used on input line 9.
 (pdftex.def)             Requested size: 323.9978pt x 284.21619pt.
 LaTeX Info: Redefining \. on input line 13.
 LaTeX Info: Redefining \% on input line 13.
- [29 <./diseno/vprocesos/imagenes/solicitarRefacciones.jpg>])) (./diseno/vlogic
-a/vlogica.tex
-<./diseno/vlogica/imagenes/vistaLogica.jpg, id=122, 601.24625pt x 470.75874pt>
-File: ./diseno/vlogica/imagenes/vistaLogica.jpg Graphic file (type jpg)
-<use ./diseno/vlogica/imagenes/vistaLogica.jpg>
-Package pdftex.def Info: ./diseno/vlogica/imagenes/vistaLogica.jpg  used on inp
-ut line 12.
-(pdftex.def)             Requested size: 288.0011pt x 225.5019pt.
-LaTeX Info: Redefining \. on input line 16.
-LaTeX Info: Redefining \% on input line 16.
- [30
+ [48 <./diseno/vprocesos/imagenes/solicitarRefacciones.jpg>]) (./diseno/vproces
+os/visualizarEmpleados.tex
+<./diseno/vprocesos/imagenes/visualizarEmpleados.jpg, id=865, 743.77875pt x 580
+.1675pt>
+File: ./diseno/vprocesos/imagenes/visualizarEmpleados.jpg Graphic file (type jp
+g)
+<use ./diseno/vprocesos/imagenes/visualizarEmpleados.jpg>
+Package pdftex.def Info: ./diseno/vprocesos/imagenes/visualizarEmpleados.jpg  u
+sed on input line 9.
+(pdftex.def)             Requested size: 288.0011pt x 224.65323pt.
+)
+(./diseno/vprocesos/registrarEmpleados.tex
+LaTeX Info: Redefining \. on input line 3.
+LaTeX Info: Redefining \% on input line 3.
+ [49
 
- <./diseno/vlogica/imagenes/vistaLogica.jpg>]) (./diseno/vdesarrollo/vdesarroll
-o.tex
-<./diseno/vdesarrollo/imagenes/vistaDesarrollo.jpg, id=126, 937.25156pt x 409.5
-3pt>
-File: ./diseno/vdesarrollo/imagenes/vistaDesarrollo.jpg Graphic file (type jpg)
+ <./diseno/vprocesos/imagenes/visualizarEmpleados.jpg>]
+<./diseno/vprocesos/imagenes/registrarEmpleado.jpg, id=872, 743.77875pt x 756.8
+275pt>
+File: ./diseno/vprocesos/imagenes/registrarEmpleado.jpg Graphic file (type jpg)
 
-<use ./diseno/vdesarrollo/imagenes/vistaDesarrollo.jpg>
-Package pdftex.def Info: ./diseno/vdesarrollo/imagenes/vistaDesarrollo.jpg  use
-d on input line 14.
-(pdftex.def)             Requested size: 468.0011pt x 204.49579pt.
+<use ./diseno/vprocesos/imagenes/registrarEmpleado.jpg>
+Package pdftex.def Info: ./diseno/vprocesos/imagenes/registrarEmpleado.jpg  use
+d on input line 9.
+(pdftex.def)             Requested size: 288.0011pt x 293.05975pt.
+) (./diseno/vprocesos/modificarEmpleados.tex
+LaTeX Info: Redefining \. on input line 3.
+LaTeX Info: Redefining \% on input line 3.
+ [50 <./diseno/vprocesos/imagenes/registrarEmpleado.jpg>]
+<./diseno/vprocesos/imagenes/modificarEmpleado.jpg, id=879, 743.77875pt x 981.6
+675pt>
+File: ./diseno/vprocesos/imagenes/modificarEmpleado.jpg Graphic file (type jpg)
 
-Overfull \hbox (108.0011pt too wide) in paragraph at lines 14--15
- [][] 
- []
+<use ./diseno/vprocesos/imagenes/modificarEmpleado.jpg>
+Package pdftex.def Info: ./diseno/vprocesos/imagenes/modificarEmpleado.jpg  use
+d on input line 11.
+(pdftex.def)             Requested size: 360.0pt x 475.1495pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-LaTeX Info: Redefining \. on input line 18.
-LaTeX Info: Redefining \% on input line 18.
-[31
+LaTeX Info: Redefining \. on input line 15.
+LaTeX Info: Redefining \% on input line 15.
+[51]
+LaTeX Info: Redefining \. on input line 15.
+LaTeX Info: Redefining \% on input line 15.
+ [52 <./diseno/vprocesos/imagenes/modificarEmpleado.jpg>])
+(./diseno/vprocesos/eliminarEmpleado.tex
+<./diseno/vprocesos/imagenes/eliminarEmpleado.jpg, id=891, 743.77875pt x 676.52
+75pt>
+File: ./diseno/vprocesos/imagenes/eliminarEmpleado.jpg Graphic file (type jpg)
+<use ./diseno/vprocesos/imagenes/eliminarEmpleado.jpg>
+Package pdftex.def Info: ./diseno/vprocesos/imagenes/eliminarEmpleado.jpg  used
+ on input line 9.
+(pdftex.def)             Requested size: 288.0011pt x 261.96588pt.
+LaTeX Info: Redefining \. on input line 13.
+LaTeX Info: Redefining \% on input line 13.
+ [53
+
+ <./diseno/vprocesos/imagenes/eliminarEmpleado.jpg>]) (./diseno/vprocesos/busca
+rEmpleado.tex
+<./diseno/vprocesos/imagenes/buscarEmpleado.jpg, id=899, 743.77875pt x 548.0475
+pt>
+File: ./diseno/vprocesos/imagenes/buscarEmpleado.jpg Graphic file (type jpg)
+<use ./diseno/vprocesos/imagenes/buscarEmpleado.jpg>
+Package pdftex.def Info: ./diseno/vprocesos/imagenes/buscarEmpleado.jpg  used o
+n input line 9.
+(pdftex.def)             Requested size: 360.0pt x 265.26752pt.
+LaTeX Info: Redefining \. on input line 13.
+LaTeX Info: Redefining \% on input line 13.
+ [54
+
+ <./diseno/vprocesos/imagenes/buscarEmpleado.jpg>]) (./diseno/vprocesos/registr
+arRefacciones.tex
+<./diseno/vprocesos/imagenes/registrarRefaccion.jpg, id=906, 743.77875pt x 756.
+8275pt>
+File: ./diseno/vprocesos/imagenes/registrarRefaccion.jpg Graphic file (type jpg
+)
+<use ./diseno/vprocesos/imagenes/registrarRefaccion.jpg>
+Package pdftex.def Info: ./diseno/vprocesos/imagenes/registrarRefaccion.jpg  us
+ed on input line 9.
+(pdftex.def)             Requested size: 288.0011pt x 293.05975pt.
+) (./diseno/vprocesos/modificarRefacciones.tex
+LaTeX Info: Redefining \. on input line 3.
+LaTeX Info: Redefining \% on input line 3.
+ [55
+
+ <./diseno/vprocesos/imagenes/registrarRefaccion.jpg>]
+<./diseno/vprocesos/imagenes/modificarRefaccion.jpg, id=913, 743.77875pt x 981.
+6675pt>
+File: ./diseno/vprocesos/imagenes/modificarRefaccion.jpg Graphic file (type jpg
+)
+<use ./diseno/vprocesos/imagenes/modificarRefaccion.jpg>
+Package pdftex.def Info: ./diseno/vprocesos/imagenes/modificarRefaccion.jpg  us
+ed on input line 11.
+(pdftex.def)             Requested size: 360.0pt x 475.1495pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+LaTeX Info: Redefining \. on input line 15.
+LaTeX Info: Redefining \% on input line 15.
+[56]
+LaTeX Info: Redefining \. on input line 15.
+LaTeX Info: Redefining \% on input line 15.
+ [57 <./diseno/vprocesos/imagenes/modificarRefaccion.jpg>])
+(./diseno/vprocesos/eliminarRefaccion.tex
+<./diseno/vprocesos/imagenes/eliminarRefaccion.jpg, id=924, 743.77875pt x 676.5
+275pt>
+File: ./diseno/vprocesos/imagenes/eliminarRefaccion.jpg Graphic file (type jpg)
+
+<use ./diseno/vprocesos/imagenes/eliminarRefaccion.jpg>
+Package pdftex.def Info: ./diseno/vprocesos/imagenes/eliminarRefaccion.jpg  use
+d on input line 9.
+(pdftex.def)             Requested size: 288.0011pt x 261.96588pt.
+LaTeX Info: Redefining \. on input line 13.
+LaTeX Info: Redefining \% on input line 13.
+ [58
+
+ <./diseno/vprocesos/imagenes/eliminarRefaccion.jpg>]) (./diseno/vprocesos/busc
+arRefaccion.tex
+<./diseno/vprocesos/imagenes/buscarRefaccion.jpg, id=931, 743.77875pt x 548.047
+5pt>
+File: ./diseno/vprocesos/imagenes/buscarRefaccion.jpg Graphic file (type jpg)
+<use ./diseno/vprocesos/imagenes/buscarRefaccion.jpg>
+Package pdftex.def Info: ./diseno/vprocesos/imagenes/buscarRefaccion.jpg  used 
+on input line 9.
+(pdftex.def)             Requested size: 360.0pt x 265.26752pt.
+LaTeX Info: Redefining \. on input line 13.
+LaTeX Info: Redefining \% on input line 13.
+ [59
+
+ <./diseno/vprocesos/imagenes/buscarRefaccion.jpg>])
+(./diseno/vprocesos/visualizarSolicitudes.tex
+<./diseno/vprocesos/imagenes/visualizarSolicitud.jpg, id=939, 743.77875pt x 604
+.2575pt>
+File: ./diseno/vprocesos/imagenes/visualizarSolicitud.jpg Graphic file (type jp
+g)
+<use ./diseno/vprocesos/imagenes/visualizarSolicitud.jpg>
+Package pdftex.def Info: ./diseno/vprocesos/imagenes/visualizarSolicitud.jpg  u
+sed on input line 9.
+(pdftex.def)             Requested size: 288.0011pt x 233.9814pt.
+LaTeX Info: Redefining \. on input line 13.
+LaTeX Info: Redefining \% on input line 13.
+ [60
+
+ <./diseno/vprocesos/imagenes/visualizarSolicitud.jpg>]) (./diseno/vprocesos/at
+enderSolicitud.tex
+<./diseno/vprocesos/imagenes/atenderSolicitud.jpg, id=946, 743.77875pt x 716.67
+75pt>
+File: ./diseno/vprocesos/imagenes/atenderSolicitud.jpg Graphic file (type jpg)
+<use ./diseno/vprocesos/imagenes/atenderSolicitud.jpg>
+Package pdftex.def Info: ./diseno/vprocesos/imagenes/atenderSolicitud.jpg  used
+ on input line 9.
+(pdftex.def)             Requested size: 288.0011pt x 277.51282pt.
+LaTeX Info: Redefining \. on input line 13.
+LaTeX Info: Redefining \% on input line 13.
+ [61
+
+ <./diseno/vprocesos/imagenes/atenderSolicitud.jpg>])) (./diseno/vlogica/vlogic
+a.tex
+<./diseno/vlogica/imagenes/vistaLogica.jpg, id=953, 761.84625pt x 382.42876pt>
+File: ./diseno/vlogica/imagenes/vistaLogica.jpg Graphic file (type jpg)
+<use ./diseno/vlogica/imagenes/vistaLogica.jpg>
+Package pdftex.def Info: ./diseno/vlogica/imagenes/vistaLogica.jpg  used on inp
+ut line 12.
+(pdftex.def)             Requested size: 360.0pt x 180.7102pt.
+LaTeX Info: Redefining \. on input line 16.
+LaTeX Info: Redefining \% on input line 16.
+
+[62
+
+ <./diseno/vlogica/imagenes/vistaLogica.jpg>])
+(./diseno/vdesarrollo/vdesarrollo.tex
+LaTeX Info: Redefining \. on input line 19.
+LaTeX Info: Redefining \% on input line 19.
+ [63
 
 ]
-LaTeX Info: Redefining \. on input line 18.
-LaTeX Info: Redefining \% on input line 18.
- [32 <./diseno/vdesarrollo/imagenes/vistaDesarrollo.jpg>])
+<./diseno/vdesarrollo/imagenes/vistaDesarrollo.jpg, id=963, 1371.1225pt x 1704.
+3675pt>
+File: ./diseno/vdesarrollo/imagenes/vistaDesarrollo.jpg Graphic file (type jpg)
+
+<use ./diseno/vdesarrollo/imagenes/vistaDesarrollo.jpg>
+Package pdftex.def Info: ./diseno/vdesarrollo/imagenes/vistaDesarrollo.jpg  use
+d on input line 35.
+(pdftex.def)             Requested size: 360.0pt x 447.4942pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+LaTeX Info: Redefining \. on input line 39.
+LaTeX Info: Redefining \% on input line 39.
+[64]
+LaTeX Info: Redefining \. on input line 39.
+LaTeX Info: Redefining \% on input line 39.
+ [65 <./diseno/vdesarrollo/imagenes/vistaDesarrollo.jpg>])
 (./diseno/vfisica/vfisica.tex
-<./diseno/vfisica/imagenes/vistaFisica.jpg, id=133, 540.0175pt x 226.8475pt>
+<./diseno/vfisica/imagenes/vistaFisica.jpg, id=975, 540.0175pt x 226.8475pt>
 File: ./diseno/vfisica/imagenes/vistaFisica.jpg Graphic file (type jpg)
 <use ./diseno/vfisica/imagenes/vistaFisica.jpg>
 Package pdftex.def Info: ./diseno/vfisica/imagenes/vistaFisica.jpg  used on inp
 ut line 7.
-(pdftex.def)             Requested size: 288.0011pt x 120.98318pt.
+(pdftex.def)             Requested size: 323.9978pt x 136.10608pt.
+<./diseno/vfisica/imagenes/diagramaRed.jpg, id=976, 889.07156pt x 237.13594pt>
+File: ./diseno/vfisica/imagenes/diagramaRed.jpg Graphic file (type jpg)
+<use ./diseno/vfisica/imagenes/diagramaRed.jpg>
+Package pdftex.def Info: ./diseno/vfisica/imagenes/diagramaRed.jpg  used on inp
+ut line 14.
+(pdftex.def)             Requested size: 323.9978pt x 86.4182pt.
 )
 LaTeX Info: Redefining \. on input line 11.
 LaTeX Info: Redefining \% on input line 11.
- [33
+ [66
 
- <./diseno/vfisica/imagenes/vistaFisica.jpg>] (./diseno/vescenarios/vescenarios
-.tex
-<./diseno/vescenarios/imagenes/vistaEscenarios.jpg, id=137, 997.7275pt x 499.86
-75pt>
+ <./diseno/vfisica/imagenes/vistaFisica.jpg> <./diseno/vfisica/imagenes/diagram
+aRed.JPG>]
+(./diseno/vescenarios/vescenarios.tex
+<./diseno/vescenarios/imagenes/vistaEscenarios.jpg, id=982, 1029.8475pt x 1736.
+4875pt>
 File: ./diseno/vescenarios/imagenes/vistaEscenarios.jpg Graphic file (type jpg)
 
 <use ./diseno/vescenarios/imagenes/vistaEscenarios.jpg>
 Package pdftex.def Info: ./diseno/vescenarios/imagenes/vistaEscenarios.jpg  use
 d on input line 6.
-(pdftex.def)             Requested size: 360.0pt x 180.3564pt.
+(pdftex.def)             Requested size: 360.0pt x 607.01134pt.
+
+
+LaTeX Warning: Float too large for page by 91.34027pt on input line 9.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
 LaTeX Info: Redefining \. on input line 13.
 LaTeX Info: Redefining \% on input line 13.
- [34
+[67
 
- <./diseno/vescenarios/imagenes/vistaEscenarios.jpg>] (./diseno/vescenarios/cu1
-.tex
+]
+LaTeX Info: Redefining \. on input line 13.
+LaTeX Info: Redefining \% on input line 13.
+ [68 <./diseno/vescenarios/imagenes/vistaEscenarios.jpg>]
+(./diseno/vescenarios/cu1.tex
 Underfull \hbox (badness 10000) in paragraph at lines 2--6
 
  []
 
-<./diseno/vescenarios/imagenes/Login.png, id=141, 1083.04625pt x 675.52374pt>
+<./diseno/vescenarios/imagenes/Login.png, id=993, 1083.04625pt x 675.52374pt>
 File: ./diseno/vescenarios/imagenes/Login.png Graphic file (type png)
 <use ./diseno/vescenarios/imagenes/Login.png>
 Package pdftex.def Info: ./diseno/vescenarios/imagenes/Login.png  used on input
  line 9.
 (pdftex.def)             Requested size: 360.0pt x 224.54182pt.
-<./diseno/vescenarios/imagenes/alerta.png, id=142, 478.78876pt x 169.63374pt>
+<./diseno/vescenarios/imagenes/alerta.png, id=995, 478.78876pt x 169.63374pt>
 File: ./diseno/vescenarios/imagenes/alerta.png Graphic file (type png)
 <use ./diseno/vescenarios/imagenes/alerta.png>
 Package pdftex.def Info: ./diseno/vescenarios/imagenes/alerta.png  used on inpu
@@ -530,12 +1031,12 @@ t line 17.
 (pdftex.def)             Requested size: 180.0pt x 63.77296pt.
 LaTeX Info: Redefining \. on input line 21.
 LaTeX Info: Redefining \% on input line 21.
-[35
+[69
 
  <./diseno/vescenarios/imagenes/Login.png> <./diseno/vescenarios/imagenes/alert
 a.png>]) (./diseno/vescenarios/cu2.tex
-<./diseno/vescenarios/imagenes/VisualizarMenu.png, id=149, 1083.04625pt x 675.5
-2374pt>
+<./diseno/vescenarios/imagenes/VisualizarMenu.png, id=1005, 1083.04625pt x 675.
+52374pt>
 File: ./diseno/vescenarios/imagenes/VisualizarMenu.png Graphic file (type png)
 <use ./diseno/vescenarios/imagenes/VisualizarMenu.png>
 Package pdftex.def Info: ./diseno/vescenarios/imagenes/VisualizarMenu.png  used
@@ -543,12 +1044,25 @@ Package pdftex.def Info: ./diseno/vescenarios/imagenes/VisualizarMenu.png  used
 (pdftex.def)             Requested size: 360.0pt x 224.54182pt.
 LaTeX Info: Redefining \. on input line 14.
 LaTeX Info: Redefining \% on input line 14.
- [36
+ [70
 
- <./diseno/vescenarios/imagenes/VisualizarMenu.png>]) (./diseno/vescenarios/cu3
-.tex
-<./diseno/vescenarios/imagenes/VisualizarAgenda.png, id=154, 1083.04625pt x 675
-.52374pt>
+ <./diseno/vescenarios/imagenes/VisualizarMenu.png>]
+<./diseno/vescenarios/imagenes/VisualizarMenuAdmin.png, id=1013, 1083.04625pt x
+ 675.52374pt>
+File: ./diseno/vescenarios/imagenes/VisualizarMenuAdmin.png Graphic file (type 
+png)
+<use ./diseno/vescenarios/imagenes/VisualizarMenuAdmin.png>
+Package pdftex.def Info: ./diseno/vescenarios/imagenes/VisualizarMenuAdmin.png 
+ used on input line 25.
+(pdftex.def)             Requested size: 360.0pt x 224.54182pt.
+LaTeX Info: Redefining \. on input line 29.
+LaTeX Info: Redefining \% on input line 29.
+ [71
+
+ <./diseno/vescenarios/imagenes/VisualizarMenuAdmin.png>]) (./diseno/vescenario
+s/cu3.tex
+<./diseno/vescenarios/imagenes/VisualizarAgenda.png, id=1023, 1083.04625pt x 67
+5.52374pt>
 File: ./diseno/vescenarios/imagenes/VisualizarAgenda.png Graphic file (type png
 )
 <use ./diseno/vescenarios/imagenes/VisualizarAgenda.png>
@@ -569,15 +1083,15 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 LaTeX Info: Redefining \. on input line 27.
 LaTeX Info: Redefining \% on input line 27.
-[37
+[72
 
 ]
 LaTeX Info: Redefining \. on input line 27.
 LaTeX Info: Redefining \% on input line 27.
- [38 <./diseno/vescenarios/imagenes/VisualizarAgenda.png>])
+ [73 <./diseno/vescenarios/imagenes/VisualizarAgenda.png>])
 (./diseno/vescenarios/cu4.tex
-<./diseno/vescenarios/imagenes/registrarVehiculo.png, id=162, 1083.04625pt x 67
-5.52374pt>
+<./diseno/vescenarios/imagenes/registrarVehiculo.png, id=1035, 1083.04625pt x 6
+75.52374pt>
 File: ./diseno/vescenarios/imagenes/registrarVehiculo.png Graphic file (type pn
 g)
 <use ./diseno/vescenarios/imagenes/registrarVehiculo.png>
@@ -591,12 +1105,12 @@ t line 16.
 (pdftex.def)             Requested size: 143.9978pt x 51.01733pt.
 LaTeX Info: Redefining \. on input line 20.
 LaTeX Info: Redefining \% on input line 20.
- [39
+ [74
 
  <./diseno/vescenarios/imagenes/registrarVehiculo.png>]) (./diseno/vescenarios/
 cu5.tex
-<./diseno/vescenarios/imagenes/modificarVehículo.png, id=167, 1083.04625pt x 6
-75.52374pt>
+<./diseno/vescenarios/imagenes/modificarVehículo.png, id=1043, 1083.04625pt x 
+675.52374pt>
 File: ./diseno/vescenarios/imagenes/modificarVehículo.png Graphic file (type p
 ng)
 <use ./diseno/vescenarios/imagenes/modificarVehículo.png>
@@ -610,12 +1124,12 @@ t line 15.
 (pdftex.def)             Requested size: 180.0pt x 63.77296pt.
 LaTeX Info: Redefining \. on input line 19.
 LaTeX Info: Redefining \% on input line 19.
- [40
+ [75
 
  <./diseno/vescenarios/imagenes/modificarVehículo.png>]) (./diseno/vescenarios
 /cu6.tex
-<./diseno/vescenarios/imagenes/eliminarVehículo.png, id=172, 1083.04625pt x 67
-5.52374pt>
+<./diseno/vescenarios/imagenes/eliminarVehículo.png, id=1053, 1083.04625pt x 6
+75.52374pt>
 File: ./diseno/vescenarios/imagenes/eliminarVehículo.png Graphic file (type pn
 g)
 <use ./diseno/vescenarios/imagenes/eliminarVehículo.png>
@@ -637,14 +1151,14 @@ ed on input line 5.
 (pdftex.def)             Requested size: 360.0pt x 224.54182pt.
 LaTeX Info: Redefining \. on input line 9.
 LaTeX Info: Redefining \% on input line 9.
- [41
+ [76
 
  <./diseno/vescenarios/imagenes/eliminarVehículo.png>]
 LaTeX Info: Redefining \. on input line 9.
 LaTeX Info: Redefining \% on input line 9.
- [42]) (./diseno/vescenarios/cu8.tex
-<./diseno/vescenarios/imagenes/VisualizarRefacciones.png, id=181, 1083.04625pt 
-x 675.52374pt>
+ [77]) (./diseno/vescenarios/cu8.tex
+<./diseno/vescenarios/imagenes/VisualizarRefacciones.png, id=1067, 1083.04625pt
+ x 675.52374pt>
 File: ./diseno/vescenarios/imagenes/VisualizarRefacciones.png Graphic file (typ
 e png)
 <use ./diseno/vescenarios/imagenes/VisualizarRefacciones.png>
@@ -653,12 +1167,12 @@ g  used on input line 9.
 (pdftex.def)             Requested size: 360.0pt x 224.54182pt.
 LaTeX Info: Redefining \. on input line 13.
 LaTeX Info: Redefining \% on input line 13.
- [43
+ [78
 
  <./diseno/vescenarios/imagenes/VisualizarRefacciones.png>]) (./diseno/vescenar
 ios/cu9.tex
-<./diseno/vescenarios/imagenes/solicitarRefaccion.png, id=186, 1083.04625pt x 6
-75.52374pt>
+<./diseno/vescenarios/imagenes/solicitarRefaccion.png, id=1073, 1083.04625pt x 
+675.52374pt>
 File: ./diseno/vescenarios/imagenes/solicitarRefaccion.png Graphic file (type p
 ng)
 <use ./diseno/vescenarios/imagenes/solicitarRefaccion.png>
@@ -670,98 +1184,471 @@ File: ./diseno/vescenarios/imagenes/alerta.png Graphic file (type png)
 Package pdftex.def Info: ./diseno/vescenarios/imagenes/alerta.png  used on inpu
 t line 14.
 (pdftex.def)             Requested size: 143.9978pt x 51.01733pt.
-)))
+)
+(./diseno/vescenarios/cu10.tex
+LaTeX Info: Redefining \. on input line 3.
+LaTeX Info: Redefining \% on input line 3.
+ [79
+
+ <./diseno/vescenarios/imagenes/solicitarRefaccion.png>]
+<./diseno/vescenarios/imagenes/VisualizarEmpleados.png, id=1082, 1083.04625pt x
+ 675.52374pt>
+File: ./diseno/vescenarios/imagenes/VisualizarEmpleados.png Graphic file (type 
+png)
+<use ./diseno/vescenarios/imagenes/VisualizarEmpleados.png>
+Package pdftex.def Info: ./diseno/vescenarios/imagenes/VisualizarEmpleados.png 
+ used on input line 12.
+(pdftex.def)             Requested size: 360.0pt x 224.54182pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+File: ./diseno/vescenarios/imagenes/alerta.png Graphic file (type png)
+<use ./diseno/vescenarios/imagenes/alerta.png>
+Package pdftex.def Info: ./diseno/vescenarios/imagenes/alerta.png  used on inpu
+t line 19.
+(pdftex.def)             Requested size: 180.0pt x 63.77296pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+LaTeX Info: Redefining \. on input line 23.
+LaTeX Info: Redefining \% on input line 23.
+[80]
+LaTeX Info: Redefining \. on input line 23.
+LaTeX Info: Redefining \% on input line 23.
+ [81 <./diseno/vescenarios/imagenes/VisualizarEmpleados.png>])
+(./diseno/vescenarios/cu11.tex
+<./diseno/vescenarios/imagenes/registrarEmpleado.png, id=1095, 1083.04625pt x 6
+75.52374pt>
+File: ./diseno/vescenarios/imagenes/registrarEmpleado.png Graphic file (type pn
+g)
+<use ./diseno/vescenarios/imagenes/registrarEmpleado.png>
+Package pdftex.def Info: ./diseno/vescenarios/imagenes/registrarEmpleado.png  u
+sed on input line 9.
+(pdftex.def)             Requested size: 288.0011pt x 179.6314pt.
+File: ./diseno/vescenarios/imagenes/alerta.png Graphic file (type png)
+<use ./diseno/vescenarios/imagenes/alerta.png>
+Package pdftex.def Info: ./diseno/vescenarios/imagenes/alerta.png  used on inpu
+t line 15.
+(pdftex.def)             Requested size: 108.0011pt x 38.2643pt.
+LaTeX Info: Redefining \. on input line 19.
+LaTeX Info: Redefining \% on input line 19.
+ [82
+
+ <./diseno/vescenarios/imagenes/registrarEmpleado.png>]) (./diseno/vescenarios/
+cu12.tex
+<./diseno/vescenarios/imagenes/modificarEmpleado.png, id=1104, 1083.04625pt x 6
+75.52374pt>
+File: ./diseno/vescenarios/imagenes/modificarEmpleado.png Graphic file (type pn
+g)
+<use ./diseno/vescenarios/imagenes/modificarEmpleado.png>
+Package pdftex.def Info: ./diseno/vescenarios/imagenes/modificarEmpleado.png  u
+sed on input line 9.
+(pdftex.def)             Requested size: 288.0011pt x 179.6314pt.
+File: ./diseno/vescenarios/imagenes/alerta.png Graphic file (type png)
+<use ./diseno/vescenarios/imagenes/alerta.png>
+Package pdftex.def Info: ./diseno/vescenarios/imagenes/alerta.png  used on inpu
+t line 15.
+(pdftex.def)             Requested size: 108.0011pt x 38.2643pt.
+LaTeX Info: Redefining \. on input line 19.
+LaTeX Info: Redefining \% on input line 19.
+ [83
+
+ <./diseno/vescenarios/imagenes/modificarEmpleado.png>]) (./diseno/vescenarios/
+cu13.tex
+<./diseno/vescenarios/imagenes/eliminarEmpleado.png, id=1112, 1083.04625pt x 67
+5.52374pt>
+File: ./diseno/vescenarios/imagenes/eliminarEmpleado.png Graphic file (type png
+)
+<use ./diseno/vescenarios/imagenes/eliminarEmpleado.png>
+Package pdftex.def Info: ./diseno/vescenarios/imagenes/eliminarEmpleado.png  us
+ed on input line 9.
+(pdftex.def)             Requested size: 288.0011pt x 179.6314pt.
+File: ./diseno/vescenarios/imagenes/alerta.png Graphic file (type png)
+<use ./diseno/vescenarios/imagenes/alerta.png>
+Package pdftex.def Info: ./diseno/vescenarios/imagenes/alerta.png  used on inpu
+t line 15.
+(pdftex.def)             Requested size: 180.0pt x 63.77296pt.
+LaTeX Info: Redefining \. on input line 19.
+LaTeX Info: Redefining \% on input line 19.
+ [84
+
+ <./diseno/vescenarios/imagenes/eliminarEmpleado.png>]) (./diseno/vescenarios/c
+u14.tex
+<./diseno/vescenarios/imagenes/visualizarEmpleados.png, id=1120, 1083.04625pt x
+ 675.52374pt>
+File: ./diseno/vescenarios/imagenes/visualizarEmpleados.png Graphic file (type 
+png)
+<use ./diseno/vescenarios/imagenes/visualizarEmpleados.png>
+Package pdftex.def Info: ./diseno/vescenarios/imagenes/visualizarEmpleados.png 
+ used on input line 5.
+(pdftex.def)             Requested size: 360.0pt x 224.54182pt.
+LaTeX Info: Redefining \. on input line 9.
+LaTeX Info: Redefining \% on input line 9.
+ [85
+
+ <./diseno/vescenarios/imagenes/VisualizarEmpleados.png>]) (./diseno/vescenario
+s/cu15.tex
+<./diseno/vescenarios/imagenes/VisualizasRefacciones.png, id=1127, 1083.04625pt
+ x 675.52374pt>
+File: ./diseno/vescenarios/imagenes/VisualizasRefacciones.png Graphic file (typ
+e png)
+<use ./diseno/vescenarios/imagenes/VisualizasRefacciones.png>
+Package pdftex.def Info: ./diseno/vescenarios/imagenes/VisualizasRefacciones.pn
+g  used on input line 13.
+(pdftex.def)             Requested size: 360.0pt x 224.54182pt.
+File: ./diseno/vescenarios/imagenes/alerta.png Graphic file (type png)
+<use ./diseno/vescenarios/imagenes/alerta.png>
+Package pdftex.def Info: ./diseno/vescenarios/imagenes/alerta.png  used on inpu
+t line 19.
+(pdftex.def)             Requested size: 180.0pt x 63.77296pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+LaTeX Info: Redefining \. on input line 23.
+LaTeX Info: Redefining \% on input line 23.
+[86
+
+]
+LaTeX Info: Redefining \. on input line 23.
+LaTeX Info: Redefining \% on input line 23.
+ [87 <./diseno/vescenarios/imagenes/VisualizasRefacciones.png>])
+(./diseno/vescenarios/cu16.tex
+<./diseno/vescenarios/imagenes/registrarRefacciones.png, id=1139, 1083.04625pt 
+x 675.52374pt>
+File: ./diseno/vescenarios/imagenes/registrarRefacciones.png Graphic file (type
+ png)
+<use ./diseno/vescenarios/imagenes/registrarRefacciones.png>
+Package pdftex.def Info: ./diseno/vescenarios/imagenes/registrarRefacciones.png
+  used on input line 9.
+(pdftex.def)             Requested size: 288.0011pt x 179.6314pt.
+File: ./diseno/vescenarios/imagenes/alerta.png Graphic file (type png)
+<use ./diseno/vescenarios/imagenes/alerta.png>
+Package pdftex.def Info: ./diseno/vescenarios/imagenes/alerta.png  used on inpu
+t line 15.
+(pdftex.def)             Requested size: 108.0011pt x 38.2643pt.
+) (./diseno/vescenarios/cu17.tex
+LaTeX Info: Redefining \. on input line 3.
+LaTeX Info: Redefining \% on input line 3.
+ [88
+
+ <./diseno/vescenarios/imagenes/registrarRefacciones.png>]
+<./diseno/vescenarios/imagenes/modificarRefaccion.png, id=1146, 1083.04625pt x 
+675.52374pt>
+File: ./diseno/vescenarios/imagenes/modificarRefaccion.png Graphic file (type p
+ng)
+<use ./diseno/vescenarios/imagenes/modificarRefaccion.png>
+Package pdftex.def Info: ./diseno/vescenarios/imagenes/modificarRefaccion.png  
+used on input line 9.
+(pdftex.def)             Requested size: 288.0011pt x 179.6314pt.
+File: ./diseno/vescenarios/imagenes/alerta.png Graphic file (type png)
+<use ./diseno/vescenarios/imagenes/alerta.png>
+Package pdftex.def Info: ./diseno/vescenarios/imagenes/alerta.png  used on inpu
+t line 15.
+(pdftex.def)             Requested size: 108.0011pt x 38.2643pt.
+LaTeX Info: Redefining \. on input line 19.
+LaTeX Info: Redefining \% on input line 19.
+ [89 <./diseno/vescenarios/imagenes/modificarRefaccion.png>]) (./diseno/vescena
+rios/cu18.tex
+<./diseno/vescenarios/imagenes/eliminarRefaccion.png, id=1154, 1083.04625pt x 6
+75.52374pt>
+File: ./diseno/vescenarios/imagenes/eliminarRefaccion.png Graphic file (type pn
+g)
+<use ./diseno/vescenarios/imagenes/eliminarRefaccion.png>
+Package pdftex.def Info: ./diseno/vescenarios/imagenes/eliminarRefaccion.png  u
+sed on input line 9.
+(pdftex.def)             Requested size: 288.0011pt x 179.6314pt.
+File: ./diseno/vescenarios/imagenes/alerta.png Graphic file (type png)
+<use ./diseno/vescenarios/imagenes/alerta.png>
+Package pdftex.def Info: ./diseno/vescenarios/imagenes/alerta.png  used on inpu
+t line 15.
+(pdftex.def)             Requested size: 108.0011pt x 38.2643pt.
+LaTeX Info: Redefining \. on input line 19.
+LaTeX Info: Redefining \% on input line 19.
+ [90
+
+ <./diseno/vescenarios/imagenes/eliminarRefaccion.png>]) (./diseno/vescenarios/
+cu19.tex
+<./diseno/vescenarios/imagenes/visualizarRefacciones.png, id=1160, 1083.04625pt
+ x 675.52374pt>
+File: ./diseno/vescenarios/imagenes/visualizarRefacciones.png Graphic file (typ
+e png)
+<use ./diseno/vescenarios/imagenes/visualizarRefacciones.png>
+Package pdftex.def Info: ./diseno/vescenarios/imagenes/visualizarRefacciones.pn
+g  used on input line 5.
+(pdftex.def)             Requested size: 288.0011pt x 179.6314pt.
+LaTeX Info: Redefining \. on input line 9.
+LaTeX Info: Redefining \% on input line 9.
+ [91
+
+ <./diseno/vescenarios/imagenes/VisualizarRefacciones.png>])
+(./diseno/vescenarios/cu20.tex
+<./diseno/vescenarios/imagenes/visualizarSolicitudes.png, id=1168, 1083.04625pt
+ x 675.52374pt>
+File: ./diseno/vescenarios/imagenes/visualizarSolicitudes.png Graphic file (typ
+e png)
+<use ./diseno/vescenarios/imagenes/visualizarSolicitudes.png>
+Package pdftex.def Info: ./diseno/vescenarios/imagenes/visualizarSolicitudes.pn
+g  used on input line 10.
+(pdftex.def)             Requested size: 288.0011pt x 179.6314pt.
+File: ./diseno/vescenarios/imagenes/alerta.png Graphic file (type png)
+<use ./diseno/vescenarios/imagenes/alerta.png>
+Package pdftex.def Info: ./diseno/vescenarios/imagenes/alerta.png  used on inpu
+t line 16.
+(pdftex.def)             Requested size: 108.0011pt x 38.2643pt.
+LaTeX Info: Redefining \. on input line 20.
+LaTeX Info: Redefining \% on input line 20.
+ [92
+
+ <./diseno/vescenarios/imagenes/visualizarSolicitudes.png>]) (./diseno/vescenar
+ios/cu21.tex
+<./diseno/vescenarios/imagenes/eliminarSolicitud.png, id=1175, 1083.04625pt x 6
+75.52374pt>
+File: ./diseno/vescenarios/imagenes/eliminarSolicitud.png Graphic file (type pn
+g)
+<use ./diseno/vescenarios/imagenes/eliminarSolicitud.png>
+Package pdftex.def Info: ./diseno/vescenarios/imagenes/eliminarSolicitud.png  u
+sed on input line 5.
+(pdftex.def)             Requested size: 288.0011pt x 179.6314pt.
+LaTeX Info: Redefining \. on input line 9.
+LaTeX Info: Redefining \% on input line 9.
+ [93
+
+ <./diseno/vescenarios/imagenes/eliminarSolicitud.png>]))) (./roles/roles.tex
+Cap\'{\i }tulo 6.
+) (./reporte/reporte.tex
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
+
+ []
+
+[94
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 21--22
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--24
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--26
+
+ []
+
+LaTeX Info: Redefining \. on input line 33.
+LaTeX Info: Redefining \% on input line 33.
+[95]) (./lecciones/lecciones.tex
+<./lecciones/imagenes/leccionAprendida.png, id=1192, 339.51843pt x 386.94562pt>
+
+File: ./lecciones/imagenes/leccionAprendida.png Graphic file (type png)
+<use ./lecciones/imagenes/leccionAprendida.png>
+Package pdftex.def Info: ./lecciones/imagenes/leccionAprendida.png  used on inp
+ut line 4.
+(pdftex.def)             Requested size: 360.0pt x 410.30801pt.
+LaTeX Info: Redefining \. on input line 6.
+LaTeX Info: Redefining \% on input line 6.
+ [96
+
+ <./lecciones/imagenes/leccionAprendida.png>]) (./medicionesMejora/medicionesMe
+jora.tex) (./planPruebas/planPruebas.tex
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+
+[97
+
+]) (./planPruebasIntegracion/planPruebasIntegracion.tex
+Underfull \hbox (badness 10000) in paragraph at lines 2--3
+
+ []
+
+) (./reporteVerificacion/reporteVerificacion.tex
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+ [98])
+(./reporteValidacion/reporteValidacion.tex) (./conclusiones/conclusiones.tex)
 (./bibliografía/bibliografía.tex
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
- [44
+ [99]) [100
 
- <./diseno/vescenarios/imagenes/solicitarRefaccion.png>]
-Underfull \hbox (badness 1540) in paragraph at lines 2--4
-[]\OT1/cmr/m/n/10.95 UML-ORG UML2-Diagramas UML Re-cu-pe-ra-do 17 de sep-tiem-b
-re
- []
-
-) [45
-
-] [46
+] [101
 
 ] (./apendice/apendice.tex
 Ap\'{e}ndice A.
-<./apendice/imagenes/login.png, id=197, 465.23813pt x 325.96782pt>
+(./productBacklog/productBacklog.tex
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 1.
+
+<./productBacklog/imagenes/prioridades.jpg, id=1222, 868.74562pt x 107.65219pt>
+
+File: ./productBacklog/imagenes/prioridades.jpg Graphic file (type jpg)
+<use ./productBacklog/imagenes/prioridades.jpg>
+Package pdftex.def Info: ./productBacklog/imagenes/prioridades.jpg  used on inp
+ut line 5.
+(pdftex.def)             Requested size: 360.0pt x 44.61075pt.
+<./productBacklog/imagenes/primerSprint.jpg, id=1223, 514.17094pt x 154.32657pt
+>
+File: ./productBacklog/imagenes/primerSprint.jpg Graphic file (type jpg)
+<use ./productBacklog/imagenes/primerSprint.jpg>
+Package pdftex.def Info: ./productBacklog/imagenes/primerSprint.jpg  used on in
+put line 12.
+(pdftex.def)             Requested size: 360.0pt x 108.05374pt.
+<./productBacklog/imagenes/segundoSprint.jpg, id=1224, 726.46407pt x 145.29282p
+t>
+File: ./productBacklog/imagenes/segundoSprint.jpg Graphic file (type jpg)
+<use ./productBacklog/imagenes/segundoSprint.jpg>
+Package pdftex.def Info: ./productBacklog/imagenes/segundoSprint.jpg  used on i
+nput line 19.
+(pdftex.def)             Requested size: 360.0pt x 72.00107pt.
+[102
+
+ <./productBacklog/imagenes/prioridades.JPG> <./productBacklog/imagenes/primerS
+print.JPG>]) (./sprintBacklog/sprintBacklog.tex
+<./sprintBacklog/imagenes/sprint1.jpg, id=1230, 603.0028pt x 319.1925pt>
+File: ./sprintBacklog/imagenes/sprint1.jpg Graphic file (type jpg)
+<use ./sprintBacklog/imagenes/sprint1.jpg>
+Package pdftex.def Info: ./sprintBacklog/imagenes/sprint1.jpg  used on input li
+ne 6.
+(pdftex.def)             Requested size: 360.0pt x 190.55748pt.
+LaTeX Info: Redefining \. on input line 10.
+LaTeX Info: Redefining \% on input line 10.
+ [103 <./productBacklog/imagenes/segundoSprint.JPG> <./sprintBacklog/imagenes/s
+print1.JPG>]
+<./sprintBacklog/imagenes/sprint2.jpg, id=1237, 666.99188pt x 295.1025pt>
+File: ./sprintBacklog/imagenes/sprint2.jpg Graphic file (type jpg)
+<use ./sprintBacklog/imagenes/sprint2.jpg>
+Package pdftex.def Info: ./sprintBacklog/imagenes/sprint2.jpg  used on input li
+ne 14.
+(pdftex.def)             Requested size: 360.0pt x 159.28091pt.
+)
+(./vistas/vistas.tex
+Underfull \hbox (badness 10000) in paragraph at lines 13--14
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--16
+
+ []
+
+LaTeX Info: Redefining \. on input line 16.
+LaTeX Info: Redefining \% on input line 16.
+[104
+
+ <./sprintBacklog/imagenes/sprint2.JPG>]
+<./apendice/imagenes/login.png, id=1248, 465.23813pt x 325.96782pt>
 File: ./apendice/imagenes/login.png Graphic file (type png)
 <use ./apendice/imagenes/login.png>
-Package pdftex.def Info: ./apendice/imagenes/login.png  used on input line 16.
+Package pdftex.def Info: ./apendice/imagenes/login.png  used on input line 21.
 (pdftex.def)             Requested size: 360.0pt x 252.23946pt.
-<./apendice/imagenes/menu.png, id=198, 465.23813pt x 329.73187pt>
+LaTeX Info: Redefining \. on input line 25.
+LaTeX Info: Redefining \% on input line 25.
+ [105 <./apendice/imagenes/login.PNG>]
+<./apendice/imagenes/menu.png, id=1255, 465.23813pt x 329.73187pt>
 File: ./apendice/imagenes/menu.png Graphic file (type png)
 <use ./apendice/imagenes/menu.png>
-Package pdftex.def Info: ./apendice/imagenes/menu.png  used on input line 23.
+Package pdftex.def Info: ./apendice/imagenes/menu.png  used on input line 28.
 (pdftex.def)             Requested size: 360.0pt x 255.15213pt.
-<./apendice/imagenes/agenda.png, id=199, 612.78937pt x 362.10281pt>
+<./apendice/imagenes/agenda.png, id=1256, 612.78937pt x 362.10281pt>
 File: ./apendice/imagenes/agenda.png Graphic file (type png)
 <use ./apendice/imagenes/agenda.png>
-Package pdftex.def Info: ./apendice/imagenes/agenda.png  used on input line 30.
+Package pdftex.def Info: ./apendice/imagenes/agenda.png  used on input line 35.
 
 (pdftex.def)             Requested size: 360.0pt x 212.72713pt.
-<./apendice/imagenes/registro.png, id=200, 528.47438pt x 508.14844pt>
+<./apendice/imagenes/registro.png, id=1257, 528.47438pt x 508.14844pt>
 File: ./apendice/imagenes/registro.png Graphic file (type png)
 <use ./apendice/imagenes/registro.png>
-Package pdftex.def Info: ./apendice/imagenes/registro.png  used on input line 3
-7.
+Package pdftex.def Info: ./apendice/imagenes/registro.png  used on input line 4
+2.
 (pdftex.def)             Requested size: 360.0pt x 346.15665pt.
-<./apendice/imagenes/modificar.png, id=201, 497.60907pt x 478.03593pt>
+<./apendice/imagenes/modificar.png, id=1258, 497.60907pt x 478.03593pt>
 File: ./apendice/imagenes/modificar.png Graphic file (type png)
 <use ./apendice/imagenes/modificar.png>
 Package pdftex.def Info: ./apendice/imagenes/modificar.png  used on input line 
-44.
+49.
 (pdftex.def)             Requested size: 360.0pt x 345.8487pt.
-<./apendice/imagenes/eliminar.png, id=202, 465.23813pt x 476.53032pt>
+<./apendice/imagenes/eliminar.png, id=1259, 465.23813pt x 476.53032pt>
 File: ./apendice/imagenes/eliminar.png Graphic file (type png)
 <use ./apendice/imagenes/eliminar.png>
 Package pdftex.def Info: ./apendice/imagenes/eliminar.png  used on input line 5
-1.
+6.
 (pdftex.def)             Requested size: 360.0pt x 368.7473pt.
-) [47
+))
+LaTeX Info: Redefining \. on input line 51.
+LaTeX Info: Redefining \% on input line 51.
+ [106 <./apendice/imagenes/menu.PNG> <./apendice/imagenes/agenda.PNG>]
+LaTeX Info: Redefining \. on input line 51.
+LaTeX Info: Redefining \% on input line 51.
 
-]
-LaTeX Info: Redefining \. on input line 34.
-LaTeX Info: Redefining \% on input line 34.
- [48 <./apendice/imagenes/login.PNG>]
-LaTeX Info: Redefining \. on input line 34.
-LaTeX Info: Redefining \% on input line 34.
- [49 <./apendice/imagenes/menu.PNG> <./apendice/imagenes/agenda.PNG>]
-LaTeX Info: Redefining \. on input line 34.
-LaTeX Info: Redefining \% on input line 34.
- [50 <./apendice/imagenes/registro.PNG>]
-LaTeX Info: Redefining \. on input line 34.
-LaTeX Info: Redefining \% on input line 34.
+[107 <./apendice/imagenes/registro.PNG>]
+LaTeX Info: Redefining \. on input line 51.
+LaTeX Info: Redefining \% on input line 51.
+ [108 <./apendice/imagenes/modificar.PNG>]
+LaTeX Info: Redefining \. on input line 51.
+LaTeX Info: Redefining \% on input line 51.
+ [109 <./apendice/imagenes/eliminar.PNG>] (./mantenimiento_autos.aux
+LaTeX Info: Redefining \. on input line 25.
+LaTeX Info: Redefining \% on input line 25.
+)
 
-[51 <./apendice/imagenes/modificar.PNG>]
-LaTeX Info: Redefining \. on input line 34.
-LaTeX Info: Redefining \% on input line 34.
- [52 <./apendice/imagenes/eliminar.PNG>] (./mantenimiento_autos.aux
-LaTeX Info: Redefining \. on input line 8.
-LaTeX Info: Redefining \% on input line 8.
-) ) 
+LaTeX Warning: There were multiply-defined labels.
+
+Package rerunfilecheck Info: File `mantenimiento_autos.out' has not changed.
+(rerunfilecheck)             Checksum: 951E3ADCC6A11D11CA489B69FAF6C5A3;15741.
+ )
+(\end occurred inside a group at level 1)
+
+### simple group (level 1) entered at line 7 ({)
+### bottom level 
 Here is how much of TeX's memory you used:
- 3046 strings out of 478994
- 54221 string characters out of 5862202
- 352304 words of memory out of 5000000
- 20343 multiletter control sequences out of 15000+600000
- 410564 words of font info for 50 fonts, out of 8000000 for 9000
+ 10534 strings out of 478994
+ 176360 string characters out of 5862202
+ 464462 words of memory out of 5000000
+ 27198 multiletter control sequences out of 15000+600000
+ 411073 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 68i,8n,74p,836b,404s stack positions out of 5000i,500n,10000p,200000b,80000s
-<c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/te
-xlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/202
-1/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2021/texmf-d
-ist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2021/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2021/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmsl10.pfb>
-Output written on mantenimiento_autos.pdf (54 pages, 2264467 bytes).
+ 71i,8n,74p,1086b,694s stack positions out of 5000i,500n,10000p,200000b,80000s
+{c:/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t
+s1.enc}<c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c
+:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive
+/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2021/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2021/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2021/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmsl10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmtt10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sf
+rm1095.pfb>
+Output written on mantenimiento_autos.pdf (111 pages, 5493493 bytes).
 PDF statistics:
- 252 PDF objects out of 1000 (max. 8388607)
- 140 compressed objects within 2 object streams
- 0 named destinations out of 1000 (max. 500000)
- 156 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1382 PDF objects out of 1440 (max. 8388607)
+ 1155 compressed objects within 12 object streams
+ 312 named destinations out of 1000 (max. 500000)
+ 1012 words of extra memory for PDF output out of 10000 (max. 10000000)
 
